@@ -21,11 +21,13 @@ jobs:
         
     - name: Install packages
       run: pip install jupyter pandas requests python-dotenv regex numpy lxml
-      
+
     - name: Create environment file
       run: |
        echo "PROJECT_API_KEY=${{ secrets.API_KEY }}" >> .env
-        
+       echo "✅ Environment file created"
+       cat .env  # This will show if the file was created (but hide the actual key value in logs)
+      
     - name: Run scraper
       run: jupyter nbconvert --to notebook --execute scraper.ipynb --inplace --ExecutePreprocessor.timeout=600
       
