@@ -318,12 +318,13 @@
     .footnote {
         margin-top: 50px;
     }
-    img#logo {
+    /* img#logo {
         display: block;
         margin: left;
         width: 15%;
         height: auto;
-    }
+    } */
+
 
     @media (max-width: 600px) {
         .grocery-container {
@@ -378,31 +379,34 @@
             margin-top: 200px;
         }
 
-        img#logo {
-        display: block;
-        margin: 0 auto;
-        width: 30%; /* Resize logo for mobile */
-        height: auto;
+
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
         }
+
+        img#logo {
+            height: 40px; /* Adjust to match h1 height */
+            width: auto;
+        }
+
         h1 {
-            text-align: center;
-            
+            margin: 0; /* Remove default margins */
         }
     }
 </style>
 
 </head>
 <body>
-<img src="gtf.png"  id="logo" alt="logo">
-<h1>Grocery Calculator</h1>
+<div class="header-container">
+    <h1>🛒 Grocery Calculator</h1> 
+    <img src="gtf.png" alt="Logo" id="logo">
+</div>
 
 <p>Click on grocery items to add them to your cart and calculate the total cost based on the average price recorded by the Consumer Price Index from the U.S. Bureau of Labor Statistics.
 </p>
-
-<div class="action-buttons">
-    <!-- <button class="action-button">Choose comparison</button> -->
-    <button class="action-button secondary" onclick="resetCalculator()">Try Again</button>
-</div>
 
 <div class="grocery-container" id="groceryList">
     <div class="aisle" id="produce">
@@ -444,10 +448,13 @@
     </div>
 </div>
 
+<div class="action-buttons">
+    <button class="action-button secondary" onclick="resetCalculator()">Try Again</button>
+</div>
 
 <div class="footnote" style="text-align:left; margin-top:20px; font-size:0.9rem; color:#414141; line-height: 1rem;">
-    <p><i>Data as of Prices are based on the average cost of grocery items per pound, gallon, or ounce in the U.S. and may vary by location and store. Wine is measured per liter, while eggs are measured by the dozen.</i><br><br>
-    Interactive: Katrina Ventura/Get the Facts Data Team • Source: <a href="https://www.bls.gov/bls/api_features.htm" target="_blank">Consumer Price Index via BLS</p>
+    <p><br><br>
+    Interactive: Katrina Ventura/Get the Facts Data Team • Source: <a href="https://www.bls.gov/bls/api_features.htm" target="_blank">Consumer Price Index via BLS</a></p>
 </div>
 
 <script src="groceryCalculator.js"></script>

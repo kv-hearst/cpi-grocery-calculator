@@ -86,7 +86,7 @@ h1 {
     font-family: 'Effra-Bold', Arial, Helvetica, sans-serif;
     font-weight: 700;
     text-align: center;
-    margin: 18px 0px 24px; 
+    /* margin: 18px 0px 24px;  */
     font-size: 2em;
     font-weight: bold;
     line-height: 1.7;
@@ -112,9 +112,18 @@ h3 {
     color: #000000;
     margin-bottom: 10px;
 }
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
 img#logo {
-    display: block;
-    margin: left;
-    width: 20%;
-    height: auto;
+    height: 50px; /* Adjust to match h1 height */
+    width: auto;
+}
+
+h1 {
+    margin: 0; /* Remove default margins */
 }
