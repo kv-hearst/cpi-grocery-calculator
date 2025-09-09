@@ -1,0 +1,26 @@
+series_id,item_name,description,unit,category,url
+APU0000701312,Rice,"Rice, white, long grain, uncooked, per lb.",per lb.,Pantry,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000701312
+APU0000701322,Pasta,"Spaghetti and macaroni, per lb.",per lb.,Pantry,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000701322
+APU0000702111,White bread,"Bread, white, pan, per lb.",per lb.,Pantry,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000702111
+APU0000702421,Cookies,"Cookies, chocolate chip, per lb.",per lb.,Snacks,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000702421
+APU0000703113,Ground beef,"Ground beef, lean and extra lean, per lb.",per lb.,Meat,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000703113
+APU0000703511,Steak,"Steak, round, USDA Choice, boneless, per lb.",per lb.,Meat,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000703511
+APU0000704111,Bacon,"Bacon, sliced, per lb.",per lb.,Meat,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000704111
+APU0000704312,Ham,"Ham, boneless, excluding canned, per lb.",per lb.,Meat,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000704312
+APU0000708111,Eggs,"Eggs, grade A, large, per doz.",per doz.,Dairy,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000708111
+APU0000709112,Milk,"Milk, fresh, whole, fortified, per gal.",per gal.,Dairy,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000709112
+APU0000710212,Cheddar cheese,"Cheddar cheese, natural, per lb.",per lb.,Dairy,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000710212
+APU0000710411,Ice cream,"Ice cream, prepackaged, bulk, regular, per 1/2 gal.",per 1/2 gal.,Dairy,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000710411
+APU0000711211,Bananas,"Bananas, per lb.",per lb.,Produce,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000711211
+APU0000711415,Strawberries,"Strawberries, dry pint, per 12 oz.",per 12 oz.,Produce,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000711415
+APU0000712112,Potatoes,"Potatoes, white, per lb.",per lb.,Produce,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000712112
+APU0000712211,Lettuce,"Lettuce, iceberg, per lb.",per lb.,Produce,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000712211
+APU0000712311,Tomatoes,"Tomatoes, field grown, per lb.",per lb.,Produce,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000712311
+APU0000713111,Orange juice,"Orange juice, frozen concentrate, 12 oz. can, per 16 oz.",per 16 oz.,Beverage,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000713111
+APU0000714221,Corn,"Corn, canned, any style, all sizes, per lb.",per lb.,Produce,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000714221
+APU0000714233,Beans,"Beans, dried, any type, all sizes, per lb.",per lb.,Pantry,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000714233
+APU0000715211,Sugar,"Sugar, white, all sizes, per lb.",per lb.,Pantry,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000715211
+APU0000717311,Coffee,"Coffee, 100%, ground roast, all sizes, per lb.",per lb.,Beverage,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000717311
+APU0000718311,Potato chips,"Potato chips, per 16 oz.",per 16 oz.,Snacks,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000718311
+APU0000720311,Wine,"Wine, red and white table, all sizes, any origin, per 1 liter",per 1 liter,Beverage,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000720311
+APU0000FF1101,Chicken breast,"Chicken breast, boneless, per lb.",per lb.,Meat,https://fred.stlouisfed.org/graph/fredgraph.csv?id=APU0000FF1101

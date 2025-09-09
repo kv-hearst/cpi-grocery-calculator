@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CPI Grocery Calculator</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="stylesheet.css">
+
+<style>
+    .grocery-container {
+            display: grid;
+            gap: 20px;
+            /* width: 100%; */
+            min-width: 700px;
+            height: 500px;
+            margin: 0 auto;
+            margin-bottom: 50px;
+        }
+
+    .grocery-list {
+            flex: 6;
+            background-color: #fff;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            padding: 20px;
+        }
+
+    #groceryList {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
+        gap: 15px; /* Space between items */
+    }
+
+/* Individual grocery items should NOT have display: grid */
+    .grocery-item {
+        cursor: grab;
+        transition: all 0.3s ease;
+        overflow: hidden;
+        color: #333;
+        border-radius: 8px;
+        padding: 5px;
+        text-align: center;
+        align-content: center;
+        padding: 10px 15px;
+        margin: 5px;
+        background-color: #f0f0f0;
+        border: none;
+        font-size: 1.125rem;
+    }
+    .price-container {
+        border-radius: 8px;
+        max-width: 400px;
+        font-weight: 700;
+    }
+    .comparison-container {
+        border-radius: 8px;
+        max-width: 400px;
+    }
+    
+    .action-buttons {
+        display: flex;
+        gap: 10px;
+        margin: 20px 0;
+        flex-wrap: wrap;
+    }
+    
+    .action-button {
+        padding: 12px 24px;
+        font-size: 1rem;
+        font-weight: 600;
+        border: 2px solid #007bff;
+        background-color: #007bff;
+        color: white;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        font-family: 'Source Sans 3', sans-serif;
+    }
+    
+    .action-button:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+    }
+    
+    .action-button.secondary {
+        background-color: transparent;
+        color: #007bff;
+    }
+    
+    .action-button.secondary:hover {
+        background-color: #007bff;
+        color: white;
+    }
+    
+    /* Receipt Section Styles */
+    .receipt-section {
+        background-color: #f9f9f9;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        padding: 25px;
+        margin: 30px 0;
+        font-family: 'Effra', Helvetica, Arial, sans-serif;
+        font-size: 1.25rem;
+        display: block; 
+        max-height: 500px;
+        overflow-y: auto;
+    }
+    
+    .receipt-section.visible {
+        display: block;
+    }
+    
+    .receipt-header {
+        text-align: center;
+        border-bottom: 2px dashed #333;
+        padding-bottom: 15px;
+        margin-bottom: 20px;
+    }
+    
+    .receipt-header h2 {
+        margin: 0;
+        font-family: 'Source Sans 3', sans-serif;
+        font-weight: 700;
+        font-size: 1.5rem;
+    }
+    
+    .receipt-date {
+        color: #666;
+        font-size: 0.9rem;
+        margin-top: 5px;
+    }
+    
+    .receipt-items {
+        margin: 20px 0;
+        
+    }
+    
+    .receipt-item {
+        display: flex;
+        justify-content: space-between;
+        margin: 8px 0;
+        padding: 5px 0;
+        border-bottom: 1px dotted #ccc;
+    }
+    
+    .receipt-item:last-child {
+        border-bottom: none;
+    }
+    
+    .item-name {
+        flex: 1;
+        text-align: left;
+        font-size: 1.125rem;
+    }
+    
+    .item-price {
+        text-align: right;
+        font-weight: bold;
+        min-width: 70px;
+    }
+    
+    .receipt-totals {
+        border-top: 2px solid #333;
+        padding-top: 15px;
+        margin-top: 20px;
+    }
+    
+    .receipt-total {
+        display: flex;
+        justify-content: space-between;
+        margin: 8px 0;
+        font-weight: bold;
+        font-size: 1.125rem;
+    }
+    
+    button {
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+    #produce button.selected {
+    background-color: #C0E76D;
+    }
+
+    #meat button.selected {
+        background-color: #FFAA9E;
+    }
+
+    #dairy button.selected {
+        background-color:#FFE657;
+    }
+
+    #pantry button.selected {
+        background-color: #FFDDB6;
+    }
+
+    #beverage button.selected {
+        background-color: #C7E2FF;
+    }
+
+    #snacks button.selected {
+        background-color: #D8C1FD;
+    }
+    
+    
+    .receipt-content {
+        background-color: white;
+        margin: 5% auto;
+        padding: 30px;
+        border-radius: 10px;
+        width: 90%;
+        max-width: 500px;
+        max-height: 80%; 
+        overflow-y: auto;
+        position: relative;
+        font-family: 'Effra', Helvetica, Arial, sans-serif;
+        
+    }
+    
+    .receipt-header {
+        text-align: center;
+        border-bottom: 2px dashed #333;
+        padding-bottom: 15px;
+        margin-bottom: 20px;
+    }
+    
+    .receipt-header h2 {
+        margin: 0;
+        font-family: 'Source Sans 3', sans-serif;
+        font-weight: 700;
+        font-size: 1.5rem;
+    }
+    
+    .receipt-date {
+        color: #666;
+        font-size: 0.9rem;
+        margin-top: 5px;
+    }
+    
+    .receipt-items {
+        margin: 20px 0;
+    }
+    
+    .receipt-item {
+        display: flex;
+        justify-content: space-between;
+        margin: 8px 0;
+        padding: 5px 0;
+        border-bottom: 1px dotted #ccc;
+    }
+    
+    .receipt-item:last-child {
+        border-bottom: none;
+    }
+    
+    .item-name {
+        flex: 2;
+        text-align: left;
+        font-size: 1.125rem;
+    }
+    
+    .item-price {
+        text-align: right;
+        font-weight: bold;
+        min-width: 70px;
+        flex: 1;
+    }
+
+    .item-change {
+        text-align: right;
+        font-size: 1.125rem;
+        min-width: 80px;
+        flex: 1;
+        font-weight: bold;
+    }
+
+    
+    .receipt-totals {
+        border-top: 2px solid #333;
+        padding-top: 15px;
+        margin-top: 20px;
+    }
+    
+    .receipt-total {
+        display: flex;
+        justify-content: space-between;
+        margin: 8px 0;
+        font-weight: bold;
+        font-size: 1.125rem;
+    }
+    
+    .close-receipt {
+        position: absolute;
+        top: 15px;
+        right: 20px;
+        font-size: 28px;
+        font-weight: bold;
+        cursor: pointer;
+        color: #666;
+        line-height: 1;
+    }
+    
+    .close-receipt:hover {
+        color: #000;
+    }
+    
+    /* .footnote p{
+        font-size: 0.875rem;
+        line-height: 1.125rem;
+        color: #666;  
+        
+
+    } */
+    .footnote {
+        margin-top: 50px;
+    }
+    img#logo {
+        display: block;
+        margin: left;
+        width: 15%;
+        height: auto;
+    }
+
+    @media (max-width: 600px) {
+        .grocery-container {
+            display: flex;
+            flex-direction: row; /* Arrange items in a column */
+            min-width: 100%;
+            height: auto;
+            margin-bottom: 20px;;
+        }
+        .grocery-list {
+            flex: 1;
+            width: 100%;
+            margin: 0 auto;
+            padding: 10px;
+        }
+
+        #groceryList {
+            display: flex;
+            flex-direction: column; /* Stack items vertically */
+            gap: 10px; /* Space between items */
+        }
+
+        .aisle {
+            margin-bottom: 20px;
+        }
+
+        .price-container,
+        .comparison-container {
+            width: 100%;
+            /* margin: 0 auto; */
+        }
+
+        .action-buttons {
+            flex-direction: column;
+        }
+        
+        .action-button {
+            width: 100%;
+        }
+        
+        .receipt-content {
+            margin: 10% auto;
+            width: 95%;
+            padding: 20px;
+        }
+        .receipt-section {
+            max-height: 400px; /* Adjust height for mobile */
+            overflow-y: auto;
+        }
+
+        .footnote {
+            margin-top: 200px;
+        }
+
+        img#logo {
+        display: block;
+        margin: 0 auto;
+        width: 30%; /* Resize logo for mobile */
+        height: auto;
+        }
+        h1 {
+            text-align: center;
+            
+        }
+    }
+</style>
+
+</head>
+<body>
+<img src="gtf.png"  id="logo" alt="logo">
+<h1>Grocery Calculator</h1>
+
+<p>Click on grocery items to add them to your cart and calculate the total cost based on the average price recorded by the Consumer Price Index from the U.S. Bureau of Labor Statistics.
+</p>
+
+<div class="action-buttons">
+    <!-- <button class="action-button">Choose comparison</button> -->
+    <button class="action-button secondary" onclick="resetCalculator()">Try Again</button>
+</div>
+
+<div class="grocery-container" id="groceryList">
+    <div class="aisle" id="produce">
+    <h3>🥬 Produce</h3> 
+    </div>
+
+    <div class="aisle" id="meat">
+    <h3>🥩 Meat</h3>
+    </div>
+
+    <div class="aisle" id="dairy">
+    <h3>🧀 Dairy</h3>
+    </div>
+
+    <div class="aisle" id="pantry">
+    <h3>🍞 Pantry</h3>
+    </div>
+
+    <div class="aisle" id="beverage">
+    <h3>☕ Beverage</h3>
+    </div>
+
+    <div class="aisle" id="snacks">
+    <h3>🍪 Snacks</h3>
+    </div>
+</div>
+
+<!-- Receipt Section -->
+<div id="receiptSection" class="receipt-section">
+    <div class="receipt-header">
+        <h2>Your Receipt</h2>
+        <p>Scroll to the end to see the total of all items compared to the previous year.</p>
+        <div class="receipt-date" id="receiptDate"></div>
+    </div>
+    <div class="receipt-items" id="receiptItems">
+        <div style="text-align: center; color: #666; font-style: italic; padding: 20px;">No items in cart</div>
+    </div>
+    <div class="receipt-totals" id="receiptTotals">
+    </div>
+</div>
+
+
+<div class="footnote" style="text-align:left; margin-top:20px; font-size:0.9rem; color:#414141; line-height: 1rem;">
+    <p><i>Data as of Prices are based on the average cost of grocery items per pound, gallon, or ounce in the U.S. and may vary by location and store. Wine is measured per liter, while eggs are measured by the dozen.</i><br><br>
+    Interactive: Katrina Ventura/Get the Facts Data Team • Source: <a href="https://www.bls.gov/bls/api_features.htm" target="_blank">Consumer Price Index via BLS</a></p>
+</p>
+</div>
+
+<script src="groceryCalculator.js"></script>
+
+</body>
+</html>
