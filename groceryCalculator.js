@@ -27,10 +27,9 @@ fetch(csvUrl)
         
         populateGroceryList();
         setupPriceCalculators();
-        // Initialize displays with $0.00 values
         updateDisplays();
-        // Initialize receipt display
         updateReceiptDisplay();
+        updateFootnoteDate();
     })
     .catch(error => console.error('Error fetching the CSV file:', error));
 
@@ -433,4 +432,15 @@ function resetCalculator() {
     
     updateDisplays();
     updateReceiptDisplay(); // ADDED: Update receipt to show empty state
+}
+function updateFootnoteDate() {
+    const latestDate = getColumnHeader(-1); 
+    const footnoteElement = document.querySelector('.footnote p');
+
+    if (footnoteElement && latestDate) {
+        footnoteElement.innerHTML = `<i>Data as of ${latestDate}. Prices are based on the average cost of grocery items per pound, gallon, or ounce in the U.S. and may vary by location and store. Wine is measured per liter, while eggs are measured by the dozen.</i><br><br>
+        Interactive: Katrina Ventura/Get the Facts Data Team • Source: <a href="https://www.bls.gov/bls/api_features.htm" target="_blank">Consumer Price Index via BLS</a>`;
+    } else {
+        console.error('Footnote element not found or latest date is unavailable.');
+    }
 }
