@@ -1,0 +1,52 @@
+name: API Scraper Automation
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:  # Manual trigger
+  schedule:
+    - cron: '0 9 * * *'  # Daily at 9 AM UTC
+
+jobs:
+  scrape-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install jupyter pandas requests python-dotenv regex numpy lxml beautifulsoup4
+          
+      - name: Create environment file
+        run: |
+          echo "API_KEY=${{ secrets.API_KEY }}" >> .env
+          echo "BASE_URL=${{ secrets.BASE_URL }}" >> .env
+          # Add other environment variables as needed
+          
+      - name: Execute scraper notebook
+        run: |
+          jupyter nbconvert --to notebook --execute scraper.ipynb \
+            --inplace \
+            --ExecutePreprocessor.timeout=600 \
+            --ExecutePreprocessor.allow_errors=True
+            
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📊 Automated data update: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            git push
+          fi
