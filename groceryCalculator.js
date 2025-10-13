@@ -219,7 +219,7 @@ function updateReceiptDisplay() {
         headerDiv.style.marginBottom = '10px';
         headerDiv.innerHTML = `
             <span class="item-name">Item</span>
-            <span class="item-price">July 2025</span>
+            <span class="item-price">September 2025</span>
             <span class="item-change">Previous Year</span>
         `;
         receiptItemsContainer.appendChild(headerDiv);
