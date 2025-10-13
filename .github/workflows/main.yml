@@ -6,7 +6,7 @@ permissions:
 on:
   workflow_dispatch:  # Manual trigger
   schedule:
-    - cron: '0 9 * * *'  # Daily at 9 AM UTC
+    - cron: '*/10 * * * *'  # Updates every 10 minutes
 
 jobs:
   scrape-data:
