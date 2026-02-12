@@ -5,8 +5,9 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-     # 8:25 AM - 8:55 AM ET (12:25 PM - 12:55 PM UTC)
-    - cron: '25,30,35,40,45,50,55 12 18 12 *'
+
+    # 8:25 AM - 8:55 AM ET (1:25 PM - 1:55 PM UTC)
+    - cron: '25,30,35,40,45,50,55 13 13 1 *'
     
     # 9:00 AM - 9:30 AM ET (1:00 PM - 1:30 PM UTC)
     - cron: '*/5 13 18 12 *'
