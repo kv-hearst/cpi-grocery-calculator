@@ -1,5 +1,5 @@
-const csvUrl = 'data/clean_data.csv';
-// const csvUrl = 'https://raw.githubusercontent.com/kv-hearst/cpi-grocery-calculator/main/data/clean_data.csv';
+// const csvUrl = 'data/clean_data.csv';
+const csvUrl = 'https://raw.githubusercontent.com/kv-hearst/cpi-grocery-calculator/main/data/clean_data.csv';
 
 
 let rows = []; 
@@ -204,6 +204,7 @@ function updateDisplays() {
 function updateReceiptDisplay() {
     const receiptItemsContainer = document.getElementById('receiptItems');
     const receiptTotalsContainer = document.getElementById('receiptTotals');
+    const latestDate = getColumnHeader(-1); 
  
     receiptItemsContainer.innerHTML = '';
     receiptTotalsContainer.innerHTML = '';
@@ -219,7 +220,7 @@ function updateReceiptDisplay() {
         headerDiv.style.marginBottom = '10px';
         headerDiv.innerHTML = `
             <span class="item-name">Item</span>
-            <span class="item-price">December 2025</span>
+            <span class="item-price">${latestDate}</span>
             <span class="item-change">Previous Year</span>
         `;
         receiptItemsContainer.appendChild(headerDiv);
