@@ -1,598 +1,598 @@
-seriesID,year,period,periodName,latest,value,footnotes,item_name
-APU0000701312,2025,M12,December,true,1.076,[{}],Rice
-APU0000701312,2025,M11,November,,1.065,[{}],Rice
-APU0000701312,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Rice
-APU0000701312,2025,M09,September,,1.060,[{}],Rice
-APU0000701312,2025,M08,August,,1.059,[{}],Rice
-APU0000701312,2025,M07,July,,1.068,[{}],Rice
-APU0000701312,2025,M06,June,,1.061,[{}],Rice
-APU0000701312,2025,M05,May,,1.067,[{}],Rice
-APU0000701312,2025,M04,April,,1.031,[{}],Rice
-APU0000701312,2025,M03,March,,1.038,[{}],Rice
-APU0000701312,2025,M02,February,,1.030,[{}],Rice
-APU0000701312,2025,M01,January,,1.008,[{}],Rice
-APU0000701312,2024,M12,December,,1.032,[{}],Rice
-APU0000701312,2024,M11,November,,1.061,[{}],Rice
-APU0000701312,2024,M10,October,,1.056,[{}],Rice
-APU0000701312,2024,M09,September,,1.078,[{}],Rice
-APU0000701312,2024,M08,August,,1.085,[{}],Rice
-APU0000701312,2024,M07,July,,1.039,[{}],Rice
-APU0000701312,2024,M06,June,,1.018,[{}],Rice
-APU0000701312,2024,M05,May,,1.002,[{}],Rice
-APU0000701312,2024,M04,April,,1.025,[{}],Rice
-APU0000701312,2024,M03,March,,1.014,[{}],Rice
-APU0000701312,2024,M02,February,,1.001,[{}],Rice
-APU0000701312,2024,M01,January,,1.000,[{}],Rice
-APU0000701322,2025,M12,December,true,1.311,[{}],Pasta
-APU0000701322,2025,M11,November,,1.300,[{}],Pasta
-APU0000701322,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Pasta
-APU0000701322,2025,M09,September,,1.205,[{}],Pasta
-APU0000701322,2025,M08,August,,1.294,[{}],Pasta
-APU0000701322,2025,M07,July,,1.306,[{}],Pasta
-APU0000701322,2025,M06,June,,1.318,[{}],Pasta
-APU0000701322,2025,M05,May,,1.322,[{}],Pasta
-APU0000701322,2025,M04,April,,1.361,[{}],Pasta
-APU0000701322,2025,M03,March,,1.379,[{}],Pasta
-APU0000701322,2025,M02,February,,1.381,[{}],Pasta
-APU0000701322,2025,M01,January,,1.366,[{}],Pasta
-APU0000701322,2024,M12,December,,1.380,[{}],Pasta
-APU0000701322,2024,M11,November,,1.367,[{}],Pasta
-APU0000701322,2024,M10,October,,1.445,[{}],Pasta
-APU0000701322,2024,M09,September,,1.431,[{}],Pasta
-APU0000701322,2024,M08,August,,1.421,[{}],Pasta
-APU0000701322,2024,M07,July,,1.432,[{}],Pasta
-APU0000701322,2024,M06,June,,1.435,[{}],Pasta
-APU0000701322,2024,M05,May,,1.377,[{}],Pasta
-APU0000701322,2024,M04,April,,1.422,[{}],Pasta
-APU0000701322,2024,M03,March,,1.420,[{}],Pasta
-APU0000701322,2024,M02,February,,1.432,[{}],Pasta
-APU0000701322,2024,M01,January,,1.425,[{}],Pasta
-APU0000702111,2025,M12,December,true,1.833,[{}],White bread
-APU0000702111,2025,M11,November,,1.790,[{}],White bread
-APU0000702111,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",White bread
-APU0000702111,2025,M09,September,,1.867,[{}],White bread
-APU0000702111,2025,M08,August,,1.841,[{}],White bread
-APU0000702111,2025,M07,July,,1.851,[{}],White bread
-APU0000702111,2025,M06,June,,1.864,[{}],White bread
-APU0000702111,2025,M05,May,,1.876,[{}],White bread
-APU0000702111,2025,M04,April,,1.913,[{}],White bread
-APU0000702111,2025,M03,March,,1.880,[{}],White bread
-APU0000702111,2025,M02,February,,1.925,[{}],White bread
-APU0000702111,2025,M01,January,,1.925,[{}],White bread
-APU0000702111,2024,M12,December,,1.912,[{}],White bread
-APU0000702111,2024,M11,November,,1.916,[{}],White bread
-APU0000702111,2024,M10,October,,1.937,[{}],White bread
-APU0000702111,2024,M09,September,,1.976,[{}],White bread
-APU0000702111,2024,M08,August,,1.951,[{}],White bread
-APU0000702111,2024,M07,July,,1.975,[{}],White bread
-APU0000702111,2024,M06,June,,1.973,[{}],White bread
-APU0000702111,2024,M05,May,,1.971,[{}],White bread
-APU0000702111,2024,M04,April,,1.998,[{}],White bread
-APU0000702111,2024,M03,March,,1.997,[{}],White bread
-APU0000702111,2024,M02,February,,2.006,[{}],White bread
-APU0000702111,2024,M01,January,,2.033,[{}],White bread
-APU0000702421,2025,M12,December,true,5.128,[{}],Cookies
-APU0000702421,2025,M11,November,,5.331,[{}],Cookies
-APU0000702421,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Cookies
-APU0000702421,2025,M09,September,,5.150,[{}],Cookies
-APU0000702421,2025,M08,August,,5.122,[{}],Cookies
-APU0000702421,2025,M07,July,,5.264,[{}],Cookies
-APU0000702421,2025,M06,June,,5.108,[{}],Cookies
-APU0000702421,2025,M05,May,,5.049,[{}],Cookies
-APU0000702421,2025,M04,April,,4.956,[{}],Cookies
-APU0000702421,2025,M03,March,,4.863,[{}],Cookies
-APU0000702421,2025,M02,February,,4.658,[{}],Cookies
-APU0000702421,2025,M01,January,,4.895,[{}],Cookies
-APU0000702421,2024,M12,December,,4.773,[{}],Cookies
-APU0000702421,2024,M11,November,,4.918,[{}],Cookies
-APU0000702421,2024,M10,October,,4.852,[{}],Cookies
-APU0000702421,2024,M09,September,,5.173,[{}],Cookies
-APU0000702421,2024,M08,August,,5.046,[{}],Cookies
-APU0000702421,2024,M07,July,,5.102,[{}],Cookies
-APU0000702421,2024,M06,June,,5.017,[{}],Cookies
-APU0000702421,2024,M05,May,,5.124,[{}],Cookies
-APU0000702421,2024,M04,April,,5.121,[{}],Cookies
-APU0000702421,2024,M03,March,,5.145,[{}],Cookies
-APU0000702421,2024,M02,February,,5.248,[{}],Cookies
-APU0000702421,2024,M01,January,,5.019,[{}],Cookies
-APU0000703113,2025,M12,December,true,8.254,[{}],Ground beef
-APU0000703113,2025,M11,November,,8.232,[{}],Ground beef
-APU0000703113,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Ground beef
-APU0000703113,2025,M09,September,,8.182,[{}],Ground beef
-APU0000703113,2025,M08,August,,7.950,[{}],Ground beef
-APU0000703113,2025,M07,July,,8.035,[{}],Ground beef
-APU0000703113,2025,M06,June,,7.672,[{}],Ground beef
-APU0000703113,2025,M05,May,,7.688,[{}],Ground beef
-APU0000703113,2025,M04,April,,7.551,[{}],Ground beef
-APU0000703113,2025,M03,March,,7.476,[{}],Ground beef
-APU0000703113,2025,M02,February,,7.244,[{}],Ground beef
-APU0000703113,2025,M01,January,,7.110,[{}],Ground beef
-APU0000703113,2024,M12,December,,7.124,[{}],Ground beef
-APU0000703113,2024,M11,November,,6.977,[{}],Ground beef
-APU0000703113,2024,M10,October,,7.220,[{}],Ground beef
-APU0000703113,2024,M09,September,,7.223,[{}],Ground beef
-APU0000703113,2024,M08,August,,6.918,[{}],Ground beef
-APU0000703113,2024,M07,July,,7.169,[{}],Ground beef
-APU0000703113,2024,M06,June,,6.893,[{}],Ground beef
-APU0000703113,2024,M05,May,,6.847,[{}],Ground beef
-APU0000703113,2024,M04,April,,6.809,[{}],Ground beef
-APU0000703113,2024,M03,March,,6.734,[{}],Ground beef
-APU0000703113,2024,M02,February,,6.651,[{}],Ground beef
-APU0000703113,2024,M01,January,,6.778,[{}],Ground beef
-APU0000703511,2025,M12,December,true,9.875,[{}],Steak
-APU0000703511,2025,M11,November,,9.665,[{}],Steak
-APU0000703511,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Steak
-APU0000703511,2025,M09,September,,9.360,[{}],Steak
-APU0000703511,2025,M08,August,,9.076,[{}],Steak
-APU0000703511,2025,M07,July,,8.690,[{}],Steak
-APU0000703511,2025,M06,June,,8.457,[{}],Steak
-APU0000703511,2025,M05,May,,8.401,[{}],Steak
-APU0000703511,2025,M04,April,,8.627,[{}],Steak
-APU0000703511,2025,M03,March,,8.554,[{}],Steak
-APU0000703511,2025,M02,February,,8.485,[{}],Steak
-APU0000703511,2025,M01,January,,8.280,[{}],Steak
-APU0000703511,2024,M12,December,,8.136,[{}],Steak
-APU0000703511,2024,M11,November,,8.159,[{}],Steak
-APU0000703511,2024,M10,October,,8.154,[{}],Steak
-APU0000703511,2024,M09,September,,8.148,[{}],Steak
-APU0000703511,2024,M08,August,,8.226,[{}],Steak
-APU0000703511,2024,M07,July,,8.059,[{}],Steak
-APU0000703511,2024,M06,June,,7.927,[{}],Steak
-APU0000703511,2024,M05,May,,8.247,[{}],Steak
-APU0000703511,2024,M04,April,,8.110,[{}],Steak
-APU0000703511,2024,M03,March,,8.031,[{}],Steak
-APU0000703511,2024,M02,February,,7.883,[{}],Steak
-APU0000703511,2024,M01,January,,8.106,[{}],Steak
-APU0000704111,2025,M12,December,true,6.760,[{}],Bacon
-APU0000704111,2025,M11,November,,6.928,[{}],Bacon
-APU0000704111,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Bacon
-APU0000704111,2025,M09,September,,7.290,[{}],Bacon
-APU0000704111,2025,M08,August,,7.208,[{}],Bacon
-APU0000704111,2025,M07,July,,7.118,[{}],Bacon
-APU0000704111,2025,M06,June,,7.098,[{}],Bacon
-APU0000704111,2025,M05,May,,6.985,[{}],Bacon
-APU0000704111,2025,M04,April,,7.009,[{}],Bacon
-APU0000704111,2025,M03,March,,6.978,[{}],Bacon
-APU0000704111,2025,M02,February,,6.798,[{}],Bacon
-APU0000704111,2025,M01,January,,7.044,[{}],Bacon
-APU0000704111,2024,M12,December,,6.915,[{}],Bacon
-APU0000704111,2024,M11,November,,6.843,[{}],Bacon
-APU0000704111,2024,M10,October,,6.869,[{}],Bacon
-APU0000704111,2024,M09,September,,6.955,[{}],Bacon
-APU0000704111,2024,M08,August,,6.785,[{}],Bacon
-APU0000704111,2024,M07,July,,6.883,[{}],Bacon
-APU0000704111,2024,M06,June,,6.827,[{}],Bacon
-APU0000704111,2024,M05,May,,6.818,[{}],Bacon
-APU0000704111,2024,M04,April,,6.637,[{}],Bacon
-APU0000704111,2024,M03,March,,6.609,[{}],Bacon
-APU0000704111,2024,M02,February,,6.560,[{}],Bacon
-APU0000704111,2024,M01,January,,6.614,[{}],Bacon
-APU0000704312,2025,M12,December,true,5.356,[{}],Ham
-APU0000704312,2025,M11,November,,5.462,[{}],Ham
-APU0000704312,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Ham
-APU0000704312,2025,M09,September,,5.478,[{}],Ham
-APU0000704312,2025,M08,August,,5.432,[{}],Ham
-APU0000704312,2025,M07,July,,5.685,[{}],Ham
-APU0000704312,2025,M06,June,,5.379,[{}],Ham
-APU0000704312,2025,M05,May,,5.453,[{}],Ham
-APU0000704312,2025,M04,April,,5.473,[{}],Ham
-APU0000704312,2025,M03,March,,5.603,[{}],Ham
-APU0000704312,2025,M02,February,,5.520,[{}],Ham
-APU0000704312,2025,M01,January,,5.476,[{}],Ham
-APU0000704312,2024,M12,December,,5.458,[{}],Ham
-APU0000704312,2024,M11,November,,5.630,[{}],Ham
-APU0000704312,2024,M10,October,,5.670,[{}],Ham
-APU0000704312,2024,M09,September,,5.630,[{}],Ham
-APU0000704312,2024,M08,August,,5.633,[{}],Ham
-APU0000704312,2024,M07,July,,5.727,[{}],Ham
-APU0000704312,2024,M06,June,,5.567,[{}],Ham
-APU0000704312,2024,M05,May,,5.668,[{}],Ham
-APU0000704312,2024,M04,April,,5.594,[{}],Ham
-APU0000704312,2024,M03,March,,5.572,[{}],Ham
-APU0000704312,2024,M02,February,,5.666,[{}],Ham
-APU0000704312,2024,M01,January,,5.532,[{}],Ham
-APU0000708111,2025,M12,December,true,2.712,[{}],Eggs
-APU0000708111,2025,M11,November,,2.860,[{}],Eggs
-APU0000708111,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Eggs
-APU0000708111,2025,M09,September,,3.488,[{}],Eggs
-APU0000708111,2025,M08,August,,3.587,[{}],Eggs
-APU0000708111,2025,M07,July,,3.599,[{}],Eggs
-APU0000708111,2025,M06,June,,3.775,[{}],Eggs
-APU0000708111,2025,M05,May,,4.548,[{}],Eggs
-APU0000708111,2025,M04,April,,5.122,[{}],Eggs
-APU0000708111,2025,M03,March,,6.227,[{}],Eggs
-APU0000708111,2025,M02,February,,5.897,[{}],Eggs
-APU0000708111,2025,M01,January,,4.953,[{}],Eggs
-APU0000708111,2024,M12,December,,4.146,[{}],Eggs
-APU0000708111,2024,M11,November,,3.649,[{}],Eggs
-APU0000708111,2024,M10,October,,3.370,[{}],Eggs
-APU0000708111,2024,M09,September,,3.821,[{}],Eggs
-APU0000708111,2024,M08,August,,3.204,[{}],Eggs
-APU0000708111,2024,M07,July,,3.080,[{}],Eggs
-APU0000708111,2024,M06,June,,2.715,[{}],Eggs
-APU0000708111,2024,M05,May,,2.699,[{}],Eggs
-APU0000708111,2024,M04,April,,2.864,[{}],Eggs
-APU0000708111,2024,M03,March,,2.992,[{}],Eggs
-APU0000708111,2024,M02,February,,2.996,[{}],Eggs
-APU0000708111,2024,M01,January,,2.522,[{}],Eggs
-APU0000709112,2025,M12,December,true,4.047,[{}],Milk
-APU0000709112,2025,M11,November,,3.997,[{}],Milk
-APU0000709112,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Milk
-APU0000709112,2025,M09,September,,4.129,[{}],Milk
-APU0000709112,2025,M08,August,,4.171,[{}],Milk
-APU0000709112,2025,M07,July,,4.162,[{}],Milk
-APU0000709112,2025,M06,June,,4.029,[{}],Milk
-APU0000709112,2025,M05,May,,4.022,[{}],Milk
-APU0000709112,2025,M04,April,,4.074,[{}],Milk
-APU0000709112,2025,M03,March,,4.050,[{}],Milk
-APU0000709112,2025,M02,February,,4.026,[{}],Milk
-APU0000709112,2025,M01,January,,4.025,[{}],Milk
-APU0000709112,2024,M12,December,,4.101,[{}],Milk
-APU0000709112,2024,M11,November,,4.138,[{}],Milk
-APU0000709112,2024,M10,October,,4.041,[{}],Milk
-APU0000709112,2024,M09,September,,4.021,[{}],Milk
-APU0000709112,2024,M08,August,,4.044,[{}],Milk
-APU0000709112,2024,M07,July,,3.983,[{}],Milk
-APU0000709112,2024,M06,June,,3.956,[{}],Milk
-APU0000709112,2024,M05,May,,3.864,[{}],Milk
-APU0000709112,2024,M04,April,,3.868,[{}],Milk
-APU0000709112,2024,M03,March,,3.893,[{}],Milk
-APU0000709112,2024,M02,February,,3.940,[{}],Milk
-APU0000709112,2024,M01,January,,3.958,[{}],Milk
-APU0000710212,2025,M12,December,true,5.789,[{}],Cheddar cheese
-APU0000710212,2025,M11,November,,5.636,[{}],Cheddar cheese
-APU0000710212,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Cheddar cheese
-APU0000710212,2025,M09,September,,6.049,[{}],Cheddar cheese
-APU0000710212,2025,M08,August,,6.123,[{}],Cheddar cheese
-APU0000710212,2025,M07,July,,6.041,[{}],Cheddar cheese
-APU0000710212,2025,M06,June,,5.999,[{}],Cheddar cheese
-APU0000710212,2025,M05,May,,5.908,[{}],Cheddar cheese
-APU0000710212,2025,M04,April,,5.743,[{}],Cheddar cheese
-APU0000710212,2025,M03,March,,5.737,[{}],Cheddar cheese
-APU0000710212,2025,M02,February,,5.536,[{}],Cheddar cheese
-APU0000710212,2025,M01,January,,5.698,[{}],Cheddar cheese
-APU0000710212,2024,M12,December,,5.621,[{}],Cheddar cheese
-APU0000710212,2024,M11,November,,5.676,[{}],Cheddar cheese
-APU0000710212,2024,M10,October,,5.844,[{}],Cheddar cheese
-APU0000710212,2024,M09,September,,5.731,[{}],Cheddar cheese
-APU0000710212,2024,M08,August,,5.763,[{}],Cheddar cheese
-APU0000710212,2024,M07,July,,5.599,[{}],Cheddar cheese
-APU0000710212,2024,M06,June,,5.537,[{}],Cheddar cheese
-APU0000710212,2024,M05,May,,5.551,[{}],Cheddar cheese
-APU0000710212,2024,M04,April,,5.510,[{}],Cheddar cheese
-APU0000710212,2024,M03,March,,5.689,[{}],Cheddar cheese
-APU0000710212,2024,M02,February,,5.726,[{}],Cheddar cheese
-APU0000710212,2024,M01,January,,5.724,[{}],Cheddar cheese
-APU0000710411,2025,M12,December,true,6.403,[{}],Ice cream
-APU0000710411,2025,M11,November,,6.138,[{}],Ice cream
-APU0000710411,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Ice cream
-APU0000710411,2025,M09,September,,6.396,[{}],Ice cream
-APU0000710411,2025,M08,August,,6.505,[{}],Ice cream
-APU0000710411,2025,M07,July,,6.374,[{}],Ice cream
-APU0000710411,2025,M06,June,,6.493,[{}],Ice cream
-APU0000710411,2025,M05,May,,6.466,[{}],Ice cream
-APU0000710411,2025,M04,April,,6.229,[{}],Ice cream
-APU0000710411,2025,M03,March,,6.328,[{}],Ice cream
-APU0000710411,2025,M02,February,,6.255,[{}],Ice cream
-APU0000710411,2025,M01,January,,6.459,[{}],Ice cream
-APU0000710411,2024,M12,December,,6.270,[{}],Ice cream
-APU0000710411,2024,M11,November,,6.447,[{}],Ice cream
-APU0000710411,2024,M10,October,,6.295,[{}],Ice cream
-APU0000710411,2024,M09,September,,6.338,[{}],Ice cream
-APU0000710411,2024,M08,August,,6.357,[{}],Ice cream
-APU0000710411,2024,M07,July,,6.030,[{}],Ice cream
-APU0000710411,2024,M06,June,,6.137,[{}],Ice cream
-APU0000710411,2024,M05,May,,6.000,[{}],Ice cream
-APU0000710411,2024,M04,April,,6.196,[{}],Ice cream
-APU0000710411,2024,M03,March,,5.733,[{}],Ice cream
-APU0000710411,2024,M02,February,,5.885,[{}],Ice cream
-APU0000710411,2024,M01,January,,5.903,[{}],Ice cream
-APU0000711211,2025,M12,December,true,0.656,[{}],Bananas
-APU0000711211,2025,M11,November,,0.664,[{}],Bananas
-APU0000711211,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Bananas
-APU0000711211,2025,M09,September,,0.670,[{}],Bananas
-APU0000711211,2025,M08,August,,0.666,[{}],Bananas
-APU0000711211,2025,M07,July,,0.657,[{}],Bananas
-APU0000711211,2025,M06,June,,0.654,[{}],Bananas
-APU0000711211,2025,M05,May,,0.655,[{}],Bananas
-APU0000711211,2025,M04,April,,0.635,[{}],Bananas
-APU0000711211,2025,M03,March,,0.625,[{}],Bananas
-APU0000711211,2025,M02,February,,0.619,[{}],Bananas
-APU0000711211,2025,M01,January,,0.621,[{}],Bananas
-APU0000711211,2024,M12,December,,0.615,[{}],Bananas
-APU0000711211,2024,M11,November,,0.622,[{}],Bananas
-APU0000711211,2024,M10,October,,0.619,[{}],Bananas
-APU0000711211,2024,M09,September,,0.617,[{}],Bananas
-APU0000711211,2024,M08,August,,0.612,[{}],Bananas
-APU0000711211,2024,M07,July,,0.613,[{}],Bananas
-APU0000711211,2024,M06,June,,0.625,[{}],Bananas
-APU0000711211,2024,M05,May,,0.622,[{}],Bananas
-APU0000711211,2024,M04,April,,0.626,[{}],Bananas
-APU0000711211,2024,M03,March,,0.629,[{}],Bananas
-APU0000711211,2024,M02,February,,0.625,[{}],Bananas
-APU0000711211,2024,M01,January,,0.617,[{}],Bananas
-APU0000711415,2025,M12,December,true,3.606,[{}],Strawberries
-APU0000711415,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Strawberries
-APU0000711415,2025,M09,September,,2.573,[{}],Strawberries
-APU0000711415,2025,M08,August,,2.408,[{}],Strawberries
-APU0000711415,2025,M07,July,,2.221,[{}],Strawberries
-APU0000711415,2025,M06,June,,2.223,[{}],Strawberries
-APU0000711415,2025,M05,May,,2.397,[{}],Strawberries
-APU0000711415,2025,M04,April,,2.475,[{}],Strawberries
-APU0000711415,2025,M03,March,,2.361,[{}],Strawberries
-APU0000711415,2025,M02,February,,2.905,[{}],Strawberries
-APU0000711415,2025,M01,January,,3.295,[{}],Strawberries
-APU0000711415,2024,M12,December,,3.505,[{}],Strawberries
-APU0000711415,2024,M11,November,,3.169,[{}],Strawberries
-APU0000711415,2024,M10,October,,2.629,[{}],Strawberries
-APU0000711415,2024,M09,September,,2.648,[{}],Strawberries
-APU0000711415,2024,M08,August,,2.344,[{}],Strawberries
-APU0000711415,2024,M07,July,,2.166,[{}],Strawberries
-APU0000711415,2024,M06,June,,2.059,[{}],Strawberries
-APU0000711415,2024,M05,May,,2.259,[{}],Strawberries
-APU0000711415,2024,M04,April,,2.520,[{}],Strawberries
-APU0000711415,2024,M03,March,,2.648,[{}],Strawberries
-APU0000711415,2024,M02,February,,3.049,[{}],Strawberries
-APU0000711415,2024,M01,January,,3.658,[{}],Strawberries
-APU0000712112,2025,M12,December,true,0.847,[{}],Potatoes
-APU0000712112,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Potatoes
-APU0000712112,2025,M09,September,,1.014,[{}],Potatoes
-APU0000712112,2025,M08,August,,1.001,[{}],Potatoes
-APU0000712112,2025,M07,July,,0.978,[{}],Potatoes
-APU0000712112,2025,M06,June,,0.981,[{}],Potatoes
-APU0000712112,2025,M05,May,,0.958,[{}],Potatoes
-APU0000712112,2025,M04,April,,0.967,[{}],Potatoes
-APU0000712112,2025,M03,March,,0.950,[{}],Potatoes
-APU0000712112,2025,M02,February,,0.957,[{}],Potatoes
-APU0000712112,2025,M01,January,,0.973,[{}],Potatoes
-APU0000712112,2024,M12,December,,0.949,[{}],Potatoes
-APU0000712112,2024,M11,November,,0.956,[{}],Potatoes
-APU0000712112,2024,M10,October,,0.998,[{}],Potatoes
-APU0000712112,2024,M09,September,,1.009,[{}],Potatoes
-APU0000712112,2024,M08,August,,1.006,[{}],Potatoes
-APU0000712112,2024,M07,July,,1.017,[{}],Potatoes
-APU0000712112,2024,M06,June,,0.993,[{}],Potatoes
-APU0000712112,2024,M05,May,,0.964,[{}],Potatoes
-APU0000712112,2024,M04,April,,0.971,[{}],Potatoes
-APU0000712112,2024,M03,March,,0.972,[{}],Potatoes
-APU0000712112,2024,M02,February,,0.971,[{}],Potatoes
-APU0000712112,2024,M01,January,,0.978,[{}],Potatoes
-APU0000712211,2025,M11,November,true,1.987,[{}],Lettuce
-APU0000712211,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Lettuce
-APU0000712211,2025,M09,September,,1.731,[{}],Lettuce
-APU0000712211,2025,M08,August,,1.673,[{}],Lettuce
-APU0000712211,2025,M07,July,,1.579,[{}],Lettuce
-APU0000712211,2025,M06,June,,1.378,[{}],Lettuce
-APU0000712211,2025,M05,May,,1.438,[{}],Lettuce
-APU0000712211,2025,M04,April,,1.515,[{}],Lettuce
-APU0000712211,2025,M03,March,,1.465,[{}],Lettuce
-APU0000712211,2025,M02,February,,1.522,[{}],Lettuce
-APU0000712211,2025,M01,January,,1.618,[{}],Lettuce
-APU0000712211,2024,M12,December,,1.705,[{}],Lettuce
-APU0000712211,2024,M11,November,,1.641,[{}],Lettuce
-APU0000712211,2024,M10,October,,1.414,[{}],Lettuce
-APU0000712211,2024,M09,September,,1.435,[{}],Lettuce
-APU0000712211,2024,M08,August,,1.517,[{}],Lettuce
-APU0000712211,2024,M07,July,,1.643,[{}],Lettuce
-APU0000712211,2024,M06,June,,1.741,[{}],Lettuce
-APU0000712211,2024,M05,May,,1.692,[{}],Lettuce
-APU0000712211,2024,M04,April,,1.754,[{}],Lettuce
-APU0000712211,2024,M03,March,,1.680,[{}],Lettuce
-APU0000712211,2024,M02,February,,1.443,[{}],Lettuce
-APU0000712211,2024,M01,January,,1.439,[{}],Lettuce
-APU0000712311,2025,M12,December,true,1.840,[{}],Tomatoes
-APU0000712311,2025,M11,November,,1.828,[{}],Tomatoes
-APU0000712311,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Tomatoes
-APU0000712311,2025,M09,September,,1.910,[{}],Tomatoes
-APU0000712311,2025,M08,August,,1.925,[{}],Tomatoes
-APU0000712311,2025,M07,July,,1.793,[{}],Tomatoes
-APU0000712311,2025,M06,June,,1.737,[{}],Tomatoes
-APU0000712311,2025,M05,May,,1.705,[{}],Tomatoes
-APU0000712311,2025,M04,April,,1.793,[{}],Tomatoes
-APU0000712311,2025,M03,March,,1.819,[{}],Tomatoes
-APU0000712311,2025,M02,February,,1.848,[{}],Tomatoes
-APU0000712311,2025,M01,January,,2.050,[{}],Tomatoes
-APU0000712311,2024,M12,December,,2.067,[{}],Tomatoes
-APU0000712311,2024,M11,November,,2.030,[{}],Tomatoes
-APU0000712311,2024,M10,October,,1.980,[{}],Tomatoes
-APU0000712311,2024,M09,September,,1.936,[{}],Tomatoes
-APU0000712311,2024,M08,August,,1.996,[{}],Tomatoes
-APU0000712311,2024,M07,July,,1.945,[{}],Tomatoes
-APU0000712311,2024,M06,June,,1.843,[{}],Tomatoes
-APU0000712311,2024,M05,May,,1.859,[{}],Tomatoes
-APU0000712311,2024,M04,April,,1.962,[{}],Tomatoes
-APU0000712311,2024,M03,March,,2.044,[{}],Tomatoes
-APU0000712311,2024,M02,February,,2.132,[{}],Tomatoes
-APU0000712311,2024,M01,January,,2.146,[{}],Tomatoes
-APU0000713111,2025,M12,December,true,4.821,[{}],Orange juice
-APU0000713111,2025,M11,November,,4.806,[{}],Orange juice
-APU0000713111,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Orange juice
-APU0000713111,2025,M09,September,,4.736,[{}],Orange juice
-APU0000713111,2025,M08,August,,4.670,[{}],Orange juice
-APU0000713111,2025,M07,July,,4.641,[{}],Orange juice
-APU0000713111,2025,M06,June,,4.493,[{}],Orange juice
-APU0000713111,2025,M05,May,,4.429,[{}],Orange juice
-APU0000713111,2025,M04,April,,4.440,[{}],Orange juice
-APU0000713111,2025,M03,March,,4.482,[{}],Orange juice
-APU0000713111,2025,M02,February,,4.492,[{}],Orange juice
-APU0000713111,2025,M01,January,,4.480,[{}],Orange juice
-APU0000713111,2024,M12,December,,4.289,[{}],Orange juice
-APU0000713111,2024,M11,November,,4.306,[{}],Orange juice
-APU0000713111,2024,M10,October,,4.247,[{}],Orange juice
-APU0000713111,2024,M09,September,,4.227,[{}],Orange juice
-APU0000713111,2024,M08,August,,4.273,[{}],Orange juice
-APU0000713111,2024,M07,July,,4.248,[{}],Orange juice
-APU0000713111,2024,M06,June,,4.258,[{}],Orange juice
-APU0000713111,2024,M05,May,,4.194,[{}],Orange juice
-APU0000713111,2024,M04,April,,4.278,[{}],Orange juice
-APU0000713111,2024,M03,March,,4.259,[{}],Orange juice
-APU0000713111,2024,M02,February,,4.214,[{}],Orange juice
-APU0000713111,2024,M01,January,,4.111,[{}],Orange juice
-APU0000714221,2025,M12,December,true,1.164,[{}],Corn
-APU0000714221,2025,M11,November,,1.174,[{}],Corn
-APU0000714221,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Corn
-APU0000714221,2025,M09,September,,1.422,[{}],Corn
-APU0000714221,2025,M08,August,,1.400,[{}],Corn
-APU0000714221,2025,M07,July,,1.415,[{}],Corn
-APU0000714221,2025,M06,June,,1.414,[{}],Corn
-APU0000714221,2025,M05,May,,1.446,[{}],Corn
-APU0000714221,2025,M04,April,,1.331,[{}],Corn
-APU0000714221,2025,M03,March,,1.341,[{}],Corn
-APU0000714221,2025,M02,February,,1.351,[{}],Corn
-APU0000714221,2025,M01,January,,1.330,[{}],Corn
-APU0000714221,2024,M12,December,,1.304,[{}],Corn
-APU0000714221,2024,M11,November,,1.294,[{}],Corn
-APU0000714221,2024,M10,October,,1.330,[{}],Corn
-APU0000714221,2024,M09,September,,1.350,[{}],Corn
-APU0000714221,2024,M08,August,,1.311,[{}],Corn
-APU0000714221,2024,M07,July,,1.366,[{}],Corn
-APU0000714221,2024,M06,June,,1.351,[{}],Corn
-APU0000714221,2024,M05,May,,1.334,[{}],Corn
-APU0000714221,2024,M04,April,,1.402,[{}],Corn
-APU0000714221,2024,M03,March,,1.396,[{}],Corn
-APU0000714221,2024,M02,February,,1.392,[{}],Corn
-APU0000714221,2024,M01,January,,1.379,[{}],Corn
-APU0000714233,2025,M12,December,true,1.689,[{}],Beans
-APU0000714233,2025,M11,November,,1.686,[{}],Beans
-APU0000714233,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Beans
-APU0000714233,2025,M09,September,,1.629,[{}],Beans
-APU0000714233,2025,M08,August,,1.547,[{}],Beans
-APU0000714233,2025,M07,July,,1.649,[{}],Beans
-APU0000714233,2025,M06,June,,1.588,[{}],Beans
-APU0000714233,2025,M05,May,,1.669,[{}],Beans
-APU0000714233,2025,M04,April,,1.674,[{}],Beans
-APU0000714233,2025,M03,March,,1.640,[{}],Beans
-APU0000714233,2025,M02,February,,1.631,[{}],Beans
-APU0000714233,2025,M01,January,,1.654,[{}],Beans
-APU0000714233,2024,M12,December,,1.655,[{}],Beans
-APU0000714233,2024,M11,November,,1.651,[{}],Beans
-APU0000714233,2024,M10,October,,1.678,[{}],Beans
-APU0000714233,2024,M09,September,,1.705,[{}],Beans
-APU0000714233,2024,M08,August,,1.711,[{}],Beans
-APU0000714233,2024,M07,July,,1.713,[{}],Beans
-APU0000714233,2024,M06,June,,1.681,[{}],Beans
-APU0000714233,2024,M05,May,,1.703,[{}],Beans
-APU0000714233,2024,M04,April,,1.647,[{}],Beans
-APU0000714233,2024,M03,March,,1.648,[{}],Beans
-APU0000714233,2024,M02,February,,1.625,[{}],Beans
-APU0000714233,2024,M01,January,,1.589,[{}],Beans
-APU0000715211,2025,M12,December,true,0.985,[{}],Sugar
-APU0000715211,2025,M11,November,,0.991,[{}],Sugar
-APU0000715211,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Sugar
-APU0000715211,2025,M09,September,,1.042,[{}],Sugar
-APU0000715211,2025,M08,August,,1.040,[{}],Sugar
-APU0000715211,2025,M07,July,,1.046,[{}],Sugar
-APU0000715211,2025,M06,June,,1.054,[{}],Sugar
-APU0000715211,2025,M05,May,,1.054,[{}],Sugar
-APU0000715211,2025,M04,April,,1.021,[{}],Sugar
-APU0000715211,2025,M03,March,,1.014,[{}],Sugar
-APU0000715211,2025,M02,February,,1.012,[{}],Sugar
-APU0000715211,2025,M01,January,,1.011,[{}],Sugar
-APU0000715211,2024,M12,December,,0.992,[{}],Sugar
-APU0000715211,2024,M11,November,,1.000,[{}],Sugar
-APU0000715211,2024,M10,October,,1.003,[{}],Sugar
-APU0000715211,2024,M09,September,,1.007,[{}],Sugar
-APU0000715211,2024,M08,August,,1.004,[{}],Sugar
-APU0000715211,2024,M07,July,,1.004,[{}],Sugar
-APU0000715211,2024,M06,June,,1.004,[{}],Sugar
-APU0000715211,2024,M05,May,,1.001,[{}],Sugar
-APU0000715211,2024,M04,April,,1.006,[{}],Sugar
-APU0000715211,2024,M03,March,,0.984,[{}],Sugar
-APU0000715211,2024,M02,February,,0.984,[{}],Sugar
-APU0000715211,2024,M01,January,,0.975,[{}],Sugar
-APU0000717311,2025,M12,December,true,9.053,[{}],Coffee
-APU0000717311,2025,M11,November,,9.258,[{}],Coffee
-APU0000717311,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Coffee
-APU0000717311,2025,M09,September,,9.139,[{}],Coffee
-APU0000717311,2025,M08,August,,8.872,[{}],Coffee
-APU0000717311,2025,M07,July,,8.414,[{}],Coffee
-APU0000717311,2025,M06,June,,8.132,[{}],Coffee
-APU0000717311,2025,M05,May,,7.931,[{}],Coffee
-APU0000717311,2025,M04,April,,7.536,[{}],Coffee
-APU0000717311,2025,M03,March,,7.385,[{}],Coffee
-APU0000717311,2025,M02,February,,7.246,[{}],Coffee
-APU0000717311,2025,M01,January,,7.019,[{}],Coffee
-APU0000717311,2024,M12,December,,6.776,[{}],Coffee
-APU0000717311,2024,M11,November,,6.868,[{}],Coffee
-APU0000717311,2024,M10,October,,6.644,[{}],Coffee
-APU0000717311,2024,M09,September,,6.470,[{}],Coffee
-APU0000717311,2024,M08,August,,6.311,[{}],Coffee
-APU0000717311,2024,M07,July,,6.307,[{}],Coffee
-APU0000717311,2024,M06,June,,6.253,[{}],Coffee
-APU0000717311,2024,M05,May,,5.991,[{}],Coffee
-APU0000717311,2024,M04,April,,6.063,[{}],Coffee
-APU0000717311,2024,M03,March,,5.964,[{}],Coffee
-APU0000717311,2024,M02,February,,6.094,[{}],Coffee
-APU0000717311,2024,M01,January,,6.124,[{}],Coffee
-APU0000718311,2025,M12,December,true,6.788,[{}],Potato chips
-APU0000718311,2025,M11,November,,6.821,[{}],Potato chips
-APU0000718311,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Potato chips
-APU0000718311,2025,M09,September,,6.971,[{}],Potato chips
-APU0000718311,2025,M08,August,,6.751,[{}],Potato chips
-APU0000718311,2025,M07,July,,6.797,[{}],Potato chips
-APU0000718311,2025,M06,June,,6.815,[{}],Potato chips
-APU0000718311,2025,M05,May,,6.731,[{}],Potato chips
-APU0000718311,2025,M04,April,,6.611,[{}],Potato chips
-APU0000718311,2025,M03,March,,6.536,[{}],Potato chips
-APU0000718311,2025,M02,February,,6.462,[{}],Potato chips
-APU0000718311,2025,M01,January,,6.474,[{}],Potato chips
-APU0000718311,2024,M12,December,,6.324,[{}],Potato chips
-APU0000718311,2024,M11,November,,6.511,[{}],Potato chips
-APU0000718311,2024,M10,October,,6.517,[{}],Potato chips
-APU0000718311,2024,M09,September,,6.466,[{}],Potato chips
-APU0000718311,2024,M08,August,,6.246,[{}],Potato chips
-APU0000718311,2024,M07,July,,6.323,[{}],Potato chips
-APU0000718311,2024,M06,June,,6.566,[{}],Potato chips
-APU0000718311,2024,M05,May,,6.629,[{}],Potato chips
-APU0000718311,2024,M04,April,,6.504,[{}],Potato chips
-APU0000718311,2024,M03,March,,6.572,[{}],Potato chips
-APU0000718311,2024,M02,February,,6.410,[{}],Potato chips
-APU0000718311,2024,M01,January,,6.389,[{}],Potato chips
-APU0000720311,2025,M12,December,true,14.174,[{}],Wine
-APU0000720311,2025,M11,November,,14.106,[{}],Wine
-APU0000720311,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Wine
-APU0000720311,2025,M09,September,,13.970,[{}],Wine
-APU0000720311,2025,M08,August,,13.951,[{}],Wine
-APU0000720311,2025,M07,July,,13.886,[{}],Wine
-APU0000720311,2025,M06,June,,13.957,[{}],Wine
-APU0000720311,2025,M05,May,,13.745,[{}],Wine
-APU0000720311,2025,M04,April,,13.779,[{}],Wine
-APU0000720311,2025,M03,March,,14.000,[{}],Wine
-APU0000720311,2025,M02,February,,14.087,[{}],Wine
-APU0000720311,2025,M01,January,,14.035,[{}],Wine
-APU0000720311,2024,M12,December,,13.985,[{}],Wine
-APU0000720311,2024,M11,November,,13.780,[{}],Wine
-APU0000720311,2024,M10,October,,13.768,[{}],Wine
-APU0000720311,2024,M09,September,,13.957,[{}],Wine
-APU0000720311,2024,M08,August,,13.958,[{}],Wine
-APU0000720311,2024,M07,July,,13.918,[{}],Wine
-APU0000720311,2024,M06,June,,13.876,[{}],Wine
-APU0000720311,2024,M05,May,,13.861,[{}],Wine
-APU0000720311,2024,M04,April,,13.662,[{}],Wine
-APU0000720311,2024,M03,March,,13.308,[{}],Wine
-APU0000720311,2024,M02,February,,13.391,[{}],Wine
-APU0000720311,2024,M01,January,,13.345,[{}],Wine
-APU0000FF1101,2025,M12,December,true,4.153,[{}],Chicken breast
-APU0000FF1101,2025,M11,November,,4.150,[{}],Chicken breast
-APU0000FF1101,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Chicken breast
-APU0000FF1101,2025,M09,September,,4.172,[{}],Chicken breast
-APU0000FF1101,2025,M08,August,,4.212,[{}],Chicken breast
-APU0000FF1101,2025,M07,July,,4.204,[{}],Chicken breast
-APU0000FF1101,2025,M06,June,,4.239,[{}],Chicken breast
-APU0000FF1101,2025,M05,May,,4.216,[{}],Chicken breast
-APU0000FF1101,2025,M04,April,,4.180,[{}],Chicken breast
-APU0000FF1101,2025,M03,March,,4.160,[{}],Chicken breast
-APU0000FF1101,2025,M02,February,,4.079,[{}],Chicken breast
-APU0000FF1101,2025,M01,January,,3.969,[{}],Chicken breast
-APU0000FF1101,2024,M12,December,,4.104,[{}],Chicken breast
-APU0000FF1101,2024,M11,November,,4.011,[{}],Chicken breast
-APU0000FF1101,2024,M10,October,,4.037,[{}],Chicken breast
-APU0000FF1101,2024,M09,September,,3.974,[{}],Chicken breast
-APU0000FF1101,2024,M08,August,,3.952,[{}],Chicken breast
-APU0000FF1101,2024,M07,July,,3.946,[{}],Chicken breast
-APU0000FF1101,2024,M06,June,,4.046,[{}],Chicken breast
-APU0000FF1101,2024,M05,May,,4.118,[{}],Chicken breast
-APU0000FF1101,2024,M04,April,,4.061,[{}],Chicken breast
-APU0000FF1101,2024,M03,March,,4.106,[{}],Chicken breast
-APU0000FF1101,2024,M02,February,,4.105,[{}],Chicken breast
-APU0000FF1101,2024,M01,January,,4.086,[{}],Chicken breast
+seriesID,year,period,periodName,value,footnotes,item_name
+APU0000701312,2025,M12,December,1.076,[{}],Rice
+APU0000701312,2025,M11,November,1.065,[{}],Rice
+APU0000701312,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Rice
+APU0000701312,2025,M09,September,1.060,[{}],Rice
+APU0000701312,2025,M08,August,1.059,[{}],Rice
+APU0000701312,2025,M07,July,1.068,[{}],Rice
+APU0000701312,2025,M06,June,1.061,[{}],Rice
+APU0000701312,2025,M05,May,1.067,[{}],Rice
+APU0000701312,2025,M04,April,1.031,[{}],Rice
+APU0000701312,2025,M03,March,1.038,[{}],Rice
+APU0000701312,2025,M02,February,1.030,[{}],Rice
+APU0000701312,2025,M01,January,1.008,[{}],Rice
+APU0000701312,2024,M12,December,1.032,[{}],Rice
+APU0000701312,2024,M11,November,1.061,[{}],Rice
+APU0000701312,2024,M10,October,1.056,[{}],Rice
+APU0000701312,2024,M09,September,1.078,[{}],Rice
+APU0000701312,2024,M08,August,1.085,[{}],Rice
+APU0000701312,2024,M07,July,1.039,[{}],Rice
+APU0000701312,2024,M06,June,1.018,[{}],Rice
+APU0000701312,2024,M05,May,1.002,[{}],Rice
+APU0000701312,2024,M04,April,1.025,[{}],Rice
+APU0000701312,2024,M03,March,1.014,[{}],Rice
+APU0000701312,2024,M02,February,1.001,[{}],Rice
+APU0000701312,2024,M01,January,1.000,[{}],Rice
+APU0000701322,2025,M12,December,1.311,[{}],Pasta
+APU0000701322,2025,M11,November,1.300,[{}],Pasta
+APU0000701322,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Pasta
+APU0000701322,2025,M09,September,1.205,[{}],Pasta
+APU0000701322,2025,M08,August,1.294,[{}],Pasta
+APU0000701322,2025,M07,July,1.306,[{}],Pasta
+APU0000701322,2025,M06,June,1.318,[{}],Pasta
+APU0000701322,2025,M05,May,1.322,[{}],Pasta
+APU0000701322,2025,M04,April,1.361,[{}],Pasta
+APU0000701322,2025,M03,March,1.379,[{}],Pasta
+APU0000701322,2025,M02,February,1.381,[{}],Pasta
+APU0000701322,2025,M01,January,1.366,[{}],Pasta
+APU0000701322,2024,M12,December,1.380,[{}],Pasta
+APU0000701322,2024,M11,November,1.367,[{}],Pasta
+APU0000701322,2024,M10,October,1.445,[{}],Pasta
+APU0000701322,2024,M09,September,1.431,[{}],Pasta
+APU0000701322,2024,M08,August,1.421,[{}],Pasta
+APU0000701322,2024,M07,July,1.432,[{}],Pasta
+APU0000701322,2024,M06,June,1.435,[{}],Pasta
+APU0000701322,2024,M05,May,1.377,[{}],Pasta
+APU0000701322,2024,M04,April,1.422,[{}],Pasta
+APU0000701322,2024,M03,March,1.420,[{}],Pasta
+APU0000701322,2024,M02,February,1.432,[{}],Pasta
+APU0000701322,2024,M01,January,1.425,[{}],Pasta
+APU0000702111,2025,M12,December,1.833,[{}],White bread
+APU0000702111,2025,M11,November,1.790,[{}],White bread
+APU0000702111,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",White bread
+APU0000702111,2025,M09,September,1.867,[{}],White bread
+APU0000702111,2025,M08,August,1.841,[{}],White bread
+APU0000702111,2025,M07,July,1.851,[{}],White bread
+APU0000702111,2025,M06,June,1.864,[{}],White bread
+APU0000702111,2025,M05,May,1.876,[{}],White bread
+APU0000702111,2025,M04,April,1.913,[{}],White bread
+APU0000702111,2025,M03,March,1.880,[{}],White bread
+APU0000702111,2025,M02,February,1.925,[{}],White bread
+APU0000702111,2025,M01,January,1.925,[{}],White bread
+APU0000702111,2024,M12,December,1.912,[{}],White bread
+APU0000702111,2024,M11,November,1.916,[{}],White bread
+APU0000702111,2024,M10,October,1.937,[{}],White bread
+APU0000702111,2024,M09,September,1.976,[{}],White bread
+APU0000702111,2024,M08,August,1.951,[{}],White bread
+APU0000702111,2024,M07,July,1.975,[{}],White bread
+APU0000702111,2024,M06,June,1.973,[{}],White bread
+APU0000702111,2024,M05,May,1.971,[{}],White bread
+APU0000702111,2024,M04,April,1.998,[{}],White bread
+APU0000702111,2024,M03,March,1.997,[{}],White bread
+APU0000702111,2024,M02,February,2.006,[{}],White bread
+APU0000702111,2024,M01,January,2.033,[{}],White bread
+APU0000702421,2025,M12,December,5.128,[{}],Cookies
+APU0000702421,2025,M11,November,5.331,[{}],Cookies
+APU0000702421,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Cookies
+APU0000702421,2025,M09,September,5.150,[{}],Cookies
+APU0000702421,2025,M08,August,5.122,[{}],Cookies
+APU0000702421,2025,M07,July,5.264,[{}],Cookies
+APU0000702421,2025,M06,June,5.108,[{}],Cookies
+APU0000702421,2025,M05,May,5.049,[{}],Cookies
+APU0000702421,2025,M04,April,4.956,[{}],Cookies
+APU0000702421,2025,M03,March,4.863,[{}],Cookies
+APU0000702421,2025,M02,February,4.658,[{}],Cookies
+APU0000702421,2025,M01,January,4.895,[{}],Cookies
+APU0000702421,2024,M12,December,4.773,[{}],Cookies
+APU0000702421,2024,M11,November,4.918,[{}],Cookies
+APU0000702421,2024,M10,October,4.852,[{}],Cookies
+APU0000702421,2024,M09,September,5.173,[{}],Cookies
+APU0000702421,2024,M08,August,5.046,[{}],Cookies
+APU0000702421,2024,M07,July,5.102,[{}],Cookies
+APU0000702421,2024,M06,June,5.017,[{}],Cookies
+APU0000702421,2024,M05,May,5.124,[{}],Cookies
+APU0000702421,2024,M04,April,5.121,[{}],Cookies
+APU0000702421,2024,M03,March,5.145,[{}],Cookies
+APU0000702421,2024,M02,February,5.248,[{}],Cookies
+APU0000702421,2024,M01,January,5.019,[{}],Cookies
+APU0000703113,2025,M12,December,8.254,[{}],Ground beef
+APU0000703113,2025,M11,November,8.232,[{}],Ground beef
+APU0000703113,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Ground beef
+APU0000703113,2025,M09,September,8.182,[{}],Ground beef
+APU0000703113,2025,M08,August,7.950,[{}],Ground beef
+APU0000703113,2025,M07,July,8.035,[{}],Ground beef
+APU0000703113,2025,M06,June,7.672,[{}],Ground beef
+APU0000703113,2025,M05,May,7.688,[{}],Ground beef
+APU0000703113,2025,M04,April,7.551,[{}],Ground beef
+APU0000703113,2025,M03,March,7.476,[{}],Ground beef
+APU0000703113,2025,M02,February,7.244,[{}],Ground beef
+APU0000703113,2025,M01,January,7.110,[{}],Ground beef
+APU0000703113,2024,M12,December,7.124,[{}],Ground beef
+APU0000703113,2024,M11,November,6.977,[{}],Ground beef
+APU0000703113,2024,M10,October,7.220,[{}],Ground beef
+APU0000703113,2024,M09,September,7.223,[{}],Ground beef
+APU0000703113,2024,M08,August,6.918,[{}],Ground beef
+APU0000703113,2024,M07,July,7.169,[{}],Ground beef
+APU0000703113,2024,M06,June,6.893,[{}],Ground beef
+APU0000703113,2024,M05,May,6.847,[{}],Ground beef
+APU0000703113,2024,M04,April,6.809,[{}],Ground beef
+APU0000703113,2024,M03,March,6.734,[{}],Ground beef
+APU0000703113,2024,M02,February,6.651,[{}],Ground beef
+APU0000703113,2024,M01,January,6.778,[{}],Ground beef
+APU0000703511,2025,M12,December,9.875,[{}],Steak
+APU0000703511,2025,M11,November,9.665,[{}],Steak
+APU0000703511,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Steak
+APU0000703511,2025,M09,September,9.360,[{}],Steak
+APU0000703511,2025,M08,August,9.076,[{}],Steak
+APU0000703511,2025,M07,July,8.690,[{}],Steak
+APU0000703511,2025,M06,June,8.457,[{}],Steak
+APU0000703511,2025,M05,May,8.401,[{}],Steak
+APU0000703511,2025,M04,April,8.627,[{}],Steak
+APU0000703511,2025,M03,March,8.554,[{}],Steak
+APU0000703511,2025,M02,February,8.485,[{}],Steak
+APU0000703511,2025,M01,January,8.280,[{}],Steak
+APU0000703511,2024,M12,December,8.136,[{}],Steak
+APU0000703511,2024,M11,November,8.159,[{}],Steak
+APU0000703511,2024,M10,October,8.154,[{}],Steak
+APU0000703511,2024,M09,September,8.148,[{}],Steak
+APU0000703511,2024,M08,August,8.226,[{}],Steak
+APU0000703511,2024,M07,July,8.059,[{}],Steak
+APU0000703511,2024,M06,June,7.927,[{}],Steak
+APU0000703511,2024,M05,May,8.247,[{}],Steak
+APU0000703511,2024,M04,April,8.110,[{}],Steak
+APU0000703511,2024,M03,March,8.031,[{}],Steak
+APU0000703511,2024,M02,February,7.883,[{}],Steak
+APU0000703511,2024,M01,January,8.106,[{}],Steak
+APU0000704111,2025,M12,December,6.760,[{}],Bacon
+APU0000704111,2025,M11,November,6.928,[{}],Bacon
+APU0000704111,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Bacon
+APU0000704111,2025,M09,September,7.290,[{}],Bacon
+APU0000704111,2025,M08,August,7.208,[{}],Bacon
+APU0000704111,2025,M07,July,7.118,[{}],Bacon
+APU0000704111,2025,M06,June,7.098,[{}],Bacon
+APU0000704111,2025,M05,May,6.985,[{}],Bacon
+APU0000704111,2025,M04,April,7.009,[{}],Bacon
+APU0000704111,2025,M03,March,6.978,[{}],Bacon
+APU0000704111,2025,M02,February,6.798,[{}],Bacon
+APU0000704111,2025,M01,January,7.044,[{}],Bacon
+APU0000704111,2024,M12,December,6.915,[{}],Bacon
+APU0000704111,2024,M11,November,6.843,[{}],Bacon
+APU0000704111,2024,M10,October,6.869,[{}],Bacon
+APU0000704111,2024,M09,September,6.955,[{}],Bacon
+APU0000704111,2024,M08,August,6.785,[{}],Bacon
+APU0000704111,2024,M07,July,6.883,[{}],Bacon
+APU0000704111,2024,M06,June,6.827,[{}],Bacon
+APU0000704111,2024,M05,May,6.818,[{}],Bacon
+APU0000704111,2024,M04,April,6.637,[{}],Bacon
+APU0000704111,2024,M03,March,6.609,[{}],Bacon
+APU0000704111,2024,M02,February,6.560,[{}],Bacon
+APU0000704111,2024,M01,January,6.614,[{}],Bacon
+APU0000704312,2025,M12,December,5.356,[{}],Ham
+APU0000704312,2025,M11,November,5.462,[{}],Ham
+APU0000704312,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Ham
+APU0000704312,2025,M09,September,5.478,[{}],Ham
+APU0000704312,2025,M08,August,5.432,[{}],Ham
+APU0000704312,2025,M07,July,5.685,[{}],Ham
+APU0000704312,2025,M06,June,5.379,[{}],Ham
+APU0000704312,2025,M05,May,5.453,[{}],Ham
+APU0000704312,2025,M04,April,5.473,[{}],Ham
+APU0000704312,2025,M03,March,5.603,[{}],Ham
+APU0000704312,2025,M02,February,5.520,[{}],Ham
+APU0000704312,2025,M01,January,5.476,[{}],Ham
+APU0000704312,2024,M12,December,5.458,[{}],Ham
+APU0000704312,2024,M11,November,5.630,[{}],Ham
+APU0000704312,2024,M10,October,5.670,[{}],Ham
+APU0000704312,2024,M09,September,5.630,[{}],Ham
+APU0000704312,2024,M08,August,5.633,[{}],Ham
+APU0000704312,2024,M07,July,5.727,[{}],Ham
+APU0000704312,2024,M06,June,5.567,[{}],Ham
+APU0000704312,2024,M05,May,5.668,[{}],Ham
+APU0000704312,2024,M04,April,5.594,[{}],Ham
+APU0000704312,2024,M03,March,5.572,[{}],Ham
+APU0000704312,2024,M02,February,5.666,[{}],Ham
+APU0000704312,2024,M01,January,5.532,[{}],Ham
+APU0000708111,2025,M12,December,2.712,[{}],Eggs
+APU0000708111,2025,M11,November,2.860,[{}],Eggs
+APU0000708111,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Eggs
+APU0000708111,2025,M09,September,3.488,[{}],Eggs
+APU0000708111,2025,M08,August,3.587,[{}],Eggs
+APU0000708111,2025,M07,July,3.599,[{}],Eggs
+APU0000708111,2025,M06,June,3.775,[{}],Eggs
+APU0000708111,2025,M05,May,4.548,[{}],Eggs
+APU0000708111,2025,M04,April,5.122,[{}],Eggs
+APU0000708111,2025,M03,March,6.227,[{}],Eggs
+APU0000708111,2025,M02,February,5.897,[{}],Eggs
+APU0000708111,2025,M01,January,4.953,[{}],Eggs
+APU0000708111,2024,M12,December,4.146,[{}],Eggs
+APU0000708111,2024,M11,November,3.649,[{}],Eggs
+APU0000708111,2024,M10,October,3.370,[{}],Eggs
+APU0000708111,2024,M09,September,3.821,[{}],Eggs
+APU0000708111,2024,M08,August,3.204,[{}],Eggs
+APU0000708111,2024,M07,July,3.080,[{}],Eggs
+APU0000708111,2024,M06,June,2.715,[{}],Eggs
+APU0000708111,2024,M05,May,2.699,[{}],Eggs
+APU0000708111,2024,M04,April,2.864,[{}],Eggs
+APU0000708111,2024,M03,March,2.992,[{}],Eggs
+APU0000708111,2024,M02,February,2.996,[{}],Eggs
+APU0000708111,2024,M01,January,2.522,[{}],Eggs
+APU0000709112,2025,M12,December,4.047,[{}],Milk
+APU0000709112,2025,M11,November,3.997,[{}],Milk
+APU0000709112,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Milk
+APU0000709112,2025,M09,September,4.129,[{}],Milk
+APU0000709112,2025,M08,August,4.171,[{}],Milk
+APU0000709112,2025,M07,July,4.162,[{}],Milk
+APU0000709112,2025,M06,June,4.029,[{}],Milk
+APU0000709112,2025,M05,May,4.022,[{}],Milk
+APU0000709112,2025,M04,April,4.074,[{}],Milk
+APU0000709112,2025,M03,March,4.050,[{}],Milk
+APU0000709112,2025,M02,February,4.026,[{}],Milk
+APU0000709112,2025,M01,January,4.025,[{}],Milk
+APU0000709112,2024,M12,December,4.101,[{}],Milk
+APU0000709112,2024,M11,November,4.138,[{}],Milk
+APU0000709112,2024,M10,October,4.041,[{}],Milk
+APU0000709112,2024,M09,September,4.021,[{}],Milk
+APU0000709112,2024,M08,August,4.044,[{}],Milk
+APU0000709112,2024,M07,July,3.983,[{}],Milk
+APU0000709112,2024,M06,June,3.956,[{}],Milk
+APU0000709112,2024,M05,May,3.864,[{}],Milk
+APU0000709112,2024,M04,April,3.868,[{}],Milk
+APU0000709112,2024,M03,March,3.893,[{}],Milk
+APU0000709112,2024,M02,February,3.940,[{}],Milk
+APU0000709112,2024,M01,January,3.958,[{}],Milk
+APU0000710212,2025,M12,December,5.789,[{}],Cheddar cheese
+APU0000710212,2025,M11,November,5.636,[{}],Cheddar cheese
+APU0000710212,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Cheddar cheese
+APU0000710212,2025,M09,September,6.049,[{}],Cheddar cheese
+APU0000710212,2025,M08,August,6.123,[{}],Cheddar cheese
+APU0000710212,2025,M07,July,6.041,[{}],Cheddar cheese
+APU0000710212,2025,M06,June,5.999,[{}],Cheddar cheese
+APU0000710212,2025,M05,May,5.908,[{}],Cheddar cheese
+APU0000710212,2025,M04,April,5.743,[{}],Cheddar cheese
+APU0000710212,2025,M03,March,5.737,[{}],Cheddar cheese
+APU0000710212,2025,M02,February,5.536,[{}],Cheddar cheese
+APU0000710212,2025,M01,January,5.698,[{}],Cheddar cheese
+APU0000710212,2024,M12,December,5.621,[{}],Cheddar cheese
+APU0000710212,2024,M11,November,5.676,[{}],Cheddar cheese
+APU0000710212,2024,M10,October,5.844,[{}],Cheddar cheese
+APU0000710212,2024,M09,September,5.731,[{}],Cheddar cheese
+APU0000710212,2024,M08,August,5.763,[{}],Cheddar cheese
+APU0000710212,2024,M07,July,5.599,[{}],Cheddar cheese
+APU0000710212,2024,M06,June,5.537,[{}],Cheddar cheese
+APU0000710212,2024,M05,May,5.551,[{}],Cheddar cheese
+APU0000710212,2024,M04,April,5.510,[{}],Cheddar cheese
+APU0000710212,2024,M03,March,5.689,[{}],Cheddar cheese
+APU0000710212,2024,M02,February,5.726,[{}],Cheddar cheese
+APU0000710212,2024,M01,January,5.724,[{}],Cheddar cheese
+APU0000710411,2025,M12,December,6.403,[{}],Ice cream
+APU0000710411,2025,M11,November,6.138,[{}],Ice cream
+APU0000710411,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Ice cream
+APU0000710411,2025,M09,September,6.396,[{}],Ice cream
+APU0000710411,2025,M08,August,6.505,[{}],Ice cream
+APU0000710411,2025,M07,July,6.374,[{}],Ice cream
+APU0000710411,2025,M06,June,6.493,[{}],Ice cream
+APU0000710411,2025,M05,May,6.466,[{}],Ice cream
+APU0000710411,2025,M04,April,6.229,[{}],Ice cream
+APU0000710411,2025,M03,March,6.328,[{}],Ice cream
+APU0000710411,2025,M02,February,6.255,[{}],Ice cream
+APU0000710411,2025,M01,January,6.459,[{}],Ice cream
+APU0000710411,2024,M12,December,6.270,[{}],Ice cream
+APU0000710411,2024,M11,November,6.447,[{}],Ice cream
+APU0000710411,2024,M10,October,6.295,[{}],Ice cream
+APU0000710411,2024,M09,September,6.338,[{}],Ice cream
+APU0000710411,2024,M08,August,6.357,[{}],Ice cream
+APU0000710411,2024,M07,July,6.030,[{}],Ice cream
+APU0000710411,2024,M06,June,6.137,[{}],Ice cream
+APU0000710411,2024,M05,May,6.000,[{}],Ice cream
+APU0000710411,2024,M04,April,6.196,[{}],Ice cream
+APU0000710411,2024,M03,March,5.733,[{}],Ice cream
+APU0000710411,2024,M02,February,5.885,[{}],Ice cream
+APU0000710411,2024,M01,January,5.903,[{}],Ice cream
+APU0000711211,2025,M12,December,0.656,[{}],Bananas
+APU0000711211,2025,M11,November,0.664,[{}],Bananas
+APU0000711211,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Bananas
+APU0000711211,2025,M09,September,0.670,[{}],Bananas
+APU0000711211,2025,M08,August,0.666,[{}],Bananas
+APU0000711211,2025,M07,July,0.657,[{}],Bananas
+APU0000711211,2025,M06,June,0.654,[{}],Bananas
+APU0000711211,2025,M05,May,0.655,[{}],Bananas
+APU0000711211,2025,M04,April,0.635,[{}],Bananas
+APU0000711211,2025,M03,March,0.625,[{}],Bananas
+APU0000711211,2025,M02,February,0.619,[{}],Bananas
+APU0000711211,2025,M01,January,0.621,[{}],Bananas
+APU0000711211,2024,M12,December,0.615,[{}],Bananas
+APU0000711211,2024,M11,November,0.622,[{}],Bananas
+APU0000711211,2024,M10,October,0.619,[{}],Bananas
+APU0000711211,2024,M09,September,0.617,[{}],Bananas
+APU0000711211,2024,M08,August,0.612,[{}],Bananas
+APU0000711211,2024,M07,July,0.613,[{}],Bananas
+APU0000711211,2024,M06,June,0.625,[{}],Bananas
+APU0000711211,2024,M05,May,0.622,[{}],Bananas
+APU0000711211,2024,M04,April,0.626,[{}],Bananas
+APU0000711211,2024,M03,March,0.629,[{}],Bananas
+APU0000711211,2024,M02,February,0.625,[{}],Bananas
+APU0000711211,2024,M01,January,0.617,[{}],Bananas
+APU0000711415,2025,M12,December,3.606,[{}],Strawberries
+APU0000711415,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Strawberries
+APU0000711415,2025,M09,September,2.573,[{}],Strawberries
+APU0000711415,2025,M08,August,2.408,[{}],Strawberries
+APU0000711415,2025,M07,July,2.221,[{}],Strawberries
+APU0000711415,2025,M06,June,2.223,[{}],Strawberries
+APU0000711415,2025,M05,May,2.397,[{}],Strawberries
+APU0000711415,2025,M04,April,2.475,[{}],Strawberries
+APU0000711415,2025,M03,March,2.361,[{}],Strawberries
+APU0000711415,2025,M02,February,2.905,[{}],Strawberries
+APU0000711415,2025,M01,January,3.295,[{}],Strawberries
+APU0000711415,2024,M12,December,3.505,[{}],Strawberries
+APU0000711415,2024,M11,November,3.169,[{}],Strawberries
+APU0000711415,2024,M10,October,2.629,[{}],Strawberries
+APU0000711415,2024,M09,September,2.648,[{}],Strawberries
+APU0000711415,2024,M08,August,2.344,[{}],Strawberries
+APU0000711415,2024,M07,July,2.166,[{}],Strawberries
+APU0000711415,2024,M06,June,2.059,[{}],Strawberries
+APU0000711415,2024,M05,May,2.259,[{}],Strawberries
+APU0000711415,2024,M04,April,2.520,[{}],Strawberries
+APU0000711415,2024,M03,March,2.648,[{}],Strawberries
+APU0000711415,2024,M02,February,3.049,[{}],Strawberries
+APU0000711415,2024,M01,January,3.658,[{}],Strawberries
+APU0000712112,2025,M12,December,0.847,[{}],Potatoes
+APU0000712112,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Potatoes
+APU0000712112,2025,M09,September,1.014,[{}],Potatoes
+APU0000712112,2025,M08,August,1.001,[{}],Potatoes
+APU0000712112,2025,M07,July,0.978,[{}],Potatoes
+APU0000712112,2025,M06,June,0.981,[{}],Potatoes
+APU0000712112,2025,M05,May,0.958,[{}],Potatoes
+APU0000712112,2025,M04,April,0.967,[{}],Potatoes
+APU0000712112,2025,M03,March,0.950,[{}],Potatoes
+APU0000712112,2025,M02,February,0.957,[{}],Potatoes
+APU0000712112,2025,M01,January,0.973,[{}],Potatoes
+APU0000712112,2024,M12,December,0.949,[{}],Potatoes
+APU0000712112,2024,M11,November,0.956,[{}],Potatoes
+APU0000712112,2024,M10,October,0.998,[{}],Potatoes
+APU0000712112,2024,M09,September,1.009,[{}],Potatoes
+APU0000712112,2024,M08,August,1.006,[{}],Potatoes
+APU0000712112,2024,M07,July,1.017,[{}],Potatoes
+APU0000712112,2024,M06,June,0.993,[{}],Potatoes
+APU0000712112,2024,M05,May,0.964,[{}],Potatoes
+APU0000712112,2024,M04,April,0.971,[{}],Potatoes
+APU0000712112,2024,M03,March,0.972,[{}],Potatoes
+APU0000712112,2024,M02,February,0.971,[{}],Potatoes
+APU0000712112,2024,M01,January,0.978,[{}],Potatoes
+APU0000712211,2025,M11,November,1.987,[{}],Lettuce
+APU0000712211,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Lettuce
+APU0000712211,2025,M09,September,1.731,[{}],Lettuce
+APU0000712211,2025,M08,August,1.673,[{}],Lettuce
+APU0000712211,2025,M07,July,1.579,[{}],Lettuce
+APU0000712211,2025,M06,June,1.378,[{}],Lettuce
+APU0000712211,2025,M05,May,1.438,[{}],Lettuce
+APU0000712211,2025,M04,April,1.515,[{}],Lettuce
+APU0000712211,2025,M03,March,1.465,[{}],Lettuce
+APU0000712211,2025,M02,February,1.522,[{}],Lettuce
+APU0000712211,2025,M01,January,1.618,[{}],Lettuce
+APU0000712211,2024,M12,December,1.705,[{}],Lettuce
+APU0000712211,2024,M11,November,1.641,[{}],Lettuce
+APU0000712211,2024,M10,October,1.414,[{}],Lettuce
+APU0000712211,2024,M09,September,1.435,[{}],Lettuce
+APU0000712211,2024,M08,August,1.517,[{}],Lettuce
+APU0000712211,2024,M07,July,1.643,[{}],Lettuce
+APU0000712211,2024,M06,June,1.741,[{}],Lettuce
+APU0000712211,2024,M05,May,1.692,[{}],Lettuce
+APU0000712211,2024,M04,April,1.754,[{}],Lettuce
+APU0000712211,2024,M03,March,1.680,[{}],Lettuce
+APU0000712211,2024,M02,February,1.443,[{}],Lettuce
+APU0000712211,2024,M01,January,1.439,[{}],Lettuce
+APU0000712311,2025,M12,December,1.840,[{}],Tomatoes
+APU0000712311,2025,M11,November,1.828,[{}],Tomatoes
+APU0000712311,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Tomatoes
+APU0000712311,2025,M09,September,1.910,[{}],Tomatoes
+APU0000712311,2025,M08,August,1.925,[{}],Tomatoes
+APU0000712311,2025,M07,July,1.793,[{}],Tomatoes
+APU0000712311,2025,M06,June,1.737,[{}],Tomatoes
+APU0000712311,2025,M05,May,1.705,[{}],Tomatoes
+APU0000712311,2025,M04,April,1.793,[{}],Tomatoes
+APU0000712311,2025,M03,March,1.819,[{}],Tomatoes
+APU0000712311,2025,M02,February,1.848,[{}],Tomatoes
+APU0000712311,2025,M01,January,2.050,[{}],Tomatoes
+APU0000712311,2024,M12,December,2.067,[{}],Tomatoes
+APU0000712311,2024,M11,November,2.030,[{}],Tomatoes
+APU0000712311,2024,M10,October,1.980,[{}],Tomatoes
+APU0000712311,2024,M09,September,1.936,[{}],Tomatoes
+APU0000712311,2024,M08,August,1.996,[{}],Tomatoes
+APU0000712311,2024,M07,July,1.945,[{}],Tomatoes
+APU0000712311,2024,M06,June,1.843,[{}],Tomatoes
+APU0000712311,2024,M05,May,1.859,[{}],Tomatoes
+APU0000712311,2024,M04,April,1.962,[{}],Tomatoes
+APU0000712311,2024,M03,March,2.044,[{}],Tomatoes
+APU0000712311,2024,M02,February,2.132,[{}],Tomatoes
+APU0000712311,2024,M01,January,2.146,[{}],Tomatoes
+APU0000713111,2025,M12,December,4.821,[{}],Orange juice
+APU0000713111,2025,M11,November,4.806,[{}],Orange juice
+APU0000713111,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Orange juice
+APU0000713111,2025,M09,September,4.736,[{}],Orange juice
+APU0000713111,2025,M08,August,4.670,[{}],Orange juice
+APU0000713111,2025,M07,July,4.641,[{}],Orange juice
+APU0000713111,2025,M06,June,4.493,[{}],Orange juice
+APU0000713111,2025,M05,May,4.429,[{}],Orange juice
+APU0000713111,2025,M04,April,4.440,[{}],Orange juice
+APU0000713111,2025,M03,March,4.482,[{}],Orange juice
+APU0000713111,2025,M02,February,4.492,[{}],Orange juice
+APU0000713111,2025,M01,January,4.480,[{}],Orange juice
+APU0000713111,2024,M12,December,4.289,[{}],Orange juice
+APU0000713111,2024,M11,November,4.306,[{}],Orange juice
+APU0000713111,2024,M10,October,4.247,[{}],Orange juice
+APU0000713111,2024,M09,September,4.227,[{}],Orange juice
+APU0000713111,2024,M08,August,4.273,[{}],Orange juice
+APU0000713111,2024,M07,July,4.248,[{}],Orange juice
+APU0000713111,2024,M06,June,4.258,[{}],Orange juice
+APU0000713111,2024,M05,May,4.194,[{}],Orange juice
+APU0000713111,2024,M04,April,4.278,[{}],Orange juice
+APU0000713111,2024,M03,March,4.259,[{}],Orange juice
+APU0000713111,2024,M02,February,4.214,[{}],Orange juice
+APU0000713111,2024,M01,January,4.111,[{}],Orange juice
+APU0000714221,2025,M12,December,1.164,[{}],Corn
+APU0000714221,2025,M11,November,1.174,[{}],Corn
+APU0000714221,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Corn
+APU0000714221,2025,M09,September,1.422,[{}],Corn
+APU0000714221,2025,M08,August,1.400,[{}],Corn
+APU0000714221,2025,M07,July,1.415,[{}],Corn
+APU0000714221,2025,M06,June,1.414,[{}],Corn
+APU0000714221,2025,M05,May,1.446,[{}],Corn
+APU0000714221,2025,M04,April,1.331,[{}],Corn
+APU0000714221,2025,M03,March,1.341,[{}],Corn
+APU0000714221,2025,M02,February,1.351,[{}],Corn
+APU0000714221,2025,M01,January,1.330,[{}],Corn
+APU0000714221,2024,M12,December,1.304,[{}],Corn
+APU0000714221,2024,M11,November,1.294,[{}],Corn
+APU0000714221,2024,M10,October,1.330,[{}],Corn
+APU0000714221,2024,M09,September,1.350,[{}],Corn
+APU0000714221,2024,M08,August,1.311,[{}],Corn
+APU0000714221,2024,M07,July,1.366,[{}],Corn
+APU0000714221,2024,M06,June,1.351,[{}],Corn
+APU0000714221,2024,M05,May,1.334,[{}],Corn
+APU0000714221,2024,M04,April,1.402,[{}],Corn
+APU0000714221,2024,M03,March,1.396,[{}],Corn
+APU0000714221,2024,M02,February,1.392,[{}],Corn
+APU0000714221,2024,M01,January,1.379,[{}],Corn
+APU0000714233,2025,M12,December,1.689,[{}],Beans
+APU0000714233,2025,M11,November,1.686,[{}],Beans
+APU0000714233,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Beans
+APU0000714233,2025,M09,September,1.629,[{}],Beans
+APU0000714233,2025,M08,August,1.547,[{}],Beans
+APU0000714233,2025,M07,July,1.649,[{}],Beans
+APU0000714233,2025,M06,June,1.588,[{}],Beans
+APU0000714233,2025,M05,May,1.669,[{}],Beans
+APU0000714233,2025,M04,April,1.674,[{}],Beans
+APU0000714233,2025,M03,March,1.640,[{}],Beans
+APU0000714233,2025,M02,February,1.631,[{}],Beans
+APU0000714233,2025,M01,January,1.654,[{}],Beans
+APU0000714233,2024,M12,December,1.655,[{}],Beans
+APU0000714233,2024,M11,November,1.651,[{}],Beans
+APU0000714233,2024,M10,October,1.678,[{}],Beans
+APU0000714233,2024,M09,September,1.705,[{}],Beans
+APU0000714233,2024,M08,August,1.711,[{}],Beans
+APU0000714233,2024,M07,July,1.713,[{}],Beans
+APU0000714233,2024,M06,June,1.681,[{}],Beans
+APU0000714233,2024,M05,May,1.703,[{}],Beans
+APU0000714233,2024,M04,April,1.647,[{}],Beans
+APU0000714233,2024,M03,March,1.648,[{}],Beans
+APU0000714233,2024,M02,February,1.625,[{}],Beans
+APU0000714233,2024,M01,January,1.589,[{}],Beans
+APU0000715211,2025,M12,December,0.985,[{}],Sugar
+APU0000715211,2025,M11,November,0.991,[{}],Sugar
+APU0000715211,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Sugar
+APU0000715211,2025,M09,September,1.042,[{}],Sugar
+APU0000715211,2025,M08,August,1.040,[{}],Sugar
+APU0000715211,2025,M07,July,1.046,[{}],Sugar
+APU0000715211,2025,M06,June,1.054,[{}],Sugar
+APU0000715211,2025,M05,May,1.054,[{}],Sugar
+APU0000715211,2025,M04,April,1.021,[{}],Sugar
+APU0000715211,2025,M03,March,1.014,[{}],Sugar
+APU0000715211,2025,M02,February,1.012,[{}],Sugar
+APU0000715211,2025,M01,January,1.011,[{}],Sugar
+APU0000715211,2024,M12,December,0.992,[{}],Sugar
+APU0000715211,2024,M11,November,1.000,[{}],Sugar
+APU0000715211,2024,M10,October,1.003,[{}],Sugar
+APU0000715211,2024,M09,September,1.007,[{}],Sugar
+APU0000715211,2024,M08,August,1.004,[{}],Sugar
+APU0000715211,2024,M07,July,1.004,[{}],Sugar
+APU0000715211,2024,M06,June,1.004,[{}],Sugar
+APU0000715211,2024,M05,May,1.001,[{}],Sugar
+APU0000715211,2024,M04,April,1.006,[{}],Sugar
+APU0000715211,2024,M03,March,0.984,[{}],Sugar
+APU0000715211,2024,M02,February,0.984,[{}],Sugar
+APU0000715211,2024,M01,January,0.975,[{}],Sugar
+APU0000717311,2025,M12,December,9.053,[{}],Coffee
+APU0000717311,2025,M11,November,9.258,[{}],Coffee
+APU0000717311,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Coffee
+APU0000717311,2025,M09,September,9.139,[{}],Coffee
+APU0000717311,2025,M08,August,8.872,[{}],Coffee
+APU0000717311,2025,M07,July,8.414,[{}],Coffee
+APU0000717311,2025,M06,June,8.132,[{}],Coffee
+APU0000717311,2025,M05,May,7.931,[{}],Coffee
+APU0000717311,2025,M04,April,7.536,[{}],Coffee
+APU0000717311,2025,M03,March,7.385,[{}],Coffee
+APU0000717311,2025,M02,February,7.246,[{}],Coffee
+APU0000717311,2025,M01,January,7.019,[{}],Coffee
+APU0000717311,2024,M12,December,6.776,[{}],Coffee
+APU0000717311,2024,M11,November,6.868,[{}],Coffee
+APU0000717311,2024,M10,October,6.644,[{}],Coffee
+APU0000717311,2024,M09,September,6.470,[{}],Coffee
+APU0000717311,2024,M08,August,6.311,[{}],Coffee
+APU0000717311,2024,M07,July,6.307,[{}],Coffee
+APU0000717311,2024,M06,June,6.253,[{}],Coffee
+APU0000717311,2024,M05,May,5.991,[{}],Coffee
+APU0000717311,2024,M04,April,6.063,[{}],Coffee
+APU0000717311,2024,M03,March,5.964,[{}],Coffee
+APU0000717311,2024,M02,February,6.094,[{}],Coffee
+APU0000717311,2024,M01,January,6.124,[{}],Coffee
+APU0000718311,2025,M12,December,6.788,[{}],Potato chips
+APU0000718311,2025,M11,November,6.821,[{}],Potato chips
+APU0000718311,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Potato chips
+APU0000718311,2025,M09,September,6.971,[{}],Potato chips
+APU0000718311,2025,M08,August,6.751,[{}],Potato chips
+APU0000718311,2025,M07,July,6.797,[{}],Potato chips
+APU0000718311,2025,M06,June,6.815,[{}],Potato chips
+APU0000718311,2025,M05,May,6.731,[{}],Potato chips
+APU0000718311,2025,M04,April,6.611,[{}],Potato chips
+APU0000718311,2025,M03,March,6.536,[{}],Potato chips
+APU0000718311,2025,M02,February,6.462,[{}],Potato chips
+APU0000718311,2025,M01,January,6.474,[{}],Potato chips
+APU0000718311,2024,M12,December,6.324,[{}],Potato chips
+APU0000718311,2024,M11,November,6.511,[{}],Potato chips
+APU0000718311,2024,M10,October,6.517,[{}],Potato chips
+APU0000718311,2024,M09,September,6.466,[{}],Potato chips
+APU0000718311,2024,M08,August,6.246,[{}],Potato chips
+APU0000718311,2024,M07,July,6.323,[{}],Potato chips
+APU0000718311,2024,M06,June,6.566,[{}],Potato chips
+APU0000718311,2024,M05,May,6.629,[{}],Potato chips
+APU0000718311,2024,M04,April,6.504,[{}],Potato chips
+APU0000718311,2024,M03,March,6.572,[{}],Potato chips
+APU0000718311,2024,M02,February,6.410,[{}],Potato chips
+APU0000718311,2024,M01,January,6.389,[{}],Potato chips
+APU0000720311,2025,M12,December,14.174,[{}],Wine
+APU0000720311,2025,M11,November,14.106,[{}],Wine
+APU0000720311,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Wine
+APU0000720311,2025,M09,September,13.970,[{}],Wine
+APU0000720311,2025,M08,August,13.951,[{}],Wine
+APU0000720311,2025,M07,July,13.886,[{}],Wine
+APU0000720311,2025,M06,June,13.957,[{}],Wine
+APU0000720311,2025,M05,May,13.745,[{}],Wine
+APU0000720311,2025,M04,April,13.779,[{}],Wine
+APU0000720311,2025,M03,March,14.000,[{}],Wine
+APU0000720311,2025,M02,February,14.087,[{}],Wine
+APU0000720311,2025,M01,January,14.035,[{}],Wine
+APU0000720311,2024,M12,December,13.985,[{}],Wine
+APU0000720311,2024,M11,November,13.780,[{}],Wine
+APU0000720311,2024,M10,October,13.768,[{}],Wine
+APU0000720311,2024,M09,September,13.957,[{}],Wine
+APU0000720311,2024,M08,August,13.958,[{}],Wine
+APU0000720311,2024,M07,July,13.918,[{}],Wine
+APU0000720311,2024,M06,June,13.876,[{}],Wine
+APU0000720311,2024,M05,May,13.861,[{}],Wine
+APU0000720311,2024,M04,April,13.662,[{}],Wine
+APU0000720311,2024,M03,March,13.308,[{}],Wine
+APU0000720311,2024,M02,February,13.391,[{}],Wine
+APU0000720311,2024,M01,January,13.345,[{}],Wine
+APU0000FF1101,2025,M12,December,4.153,[{}],Chicken breast
+APU0000FF1101,2025,M11,November,4.150,[{}],Chicken breast
+APU0000FF1101,2025,M10,October,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Chicken breast
+APU0000FF1101,2025,M09,September,4.172,[{}],Chicken breast
+APU0000FF1101,2025,M08,August,4.212,[{}],Chicken breast
+APU0000FF1101,2025,M07,July,4.204,[{}],Chicken breast
+APU0000FF1101,2025,M06,June,4.239,[{}],Chicken breast
+APU0000FF1101,2025,M05,May,4.216,[{}],Chicken breast
+APU0000FF1101,2025,M04,April,4.180,[{}],Chicken breast
+APU0000FF1101,2025,M03,March,4.160,[{}],Chicken breast
+APU0000FF1101,2025,M02,February,4.079,[{}],Chicken breast
+APU0000FF1101,2025,M01,January,3.969,[{}],Chicken breast
+APU0000FF1101,2024,M12,December,4.104,[{}],Chicken breast
+APU0000FF1101,2024,M11,November,4.011,[{}],Chicken breast
+APU0000FF1101,2024,M10,October,4.037,[{}],Chicken breast
+APU0000FF1101,2024,M09,September,3.974,[{}],Chicken breast
+APU0000FF1101,2024,M08,August,3.952,[{}],Chicken breast
+APU0000FF1101,2024,M07,July,3.946,[{}],Chicken breast
+APU0000FF1101,2024,M06,June,4.046,[{}],Chicken breast
+APU0000FF1101,2024,M05,May,4.118,[{}],Chicken breast
+APU0000FF1101,2024,M04,April,4.061,[{}],Chicken breast
+APU0000FF1101,2024,M03,March,4.106,[{}],Chicken breast
+APU0000FF1101,2024,M02,February,4.105,[{}],Chicken breast
+APU0000FF1101,2024,M01,January,4.086,[{}],Chicken breast
