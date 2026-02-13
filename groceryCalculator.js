@@ -1,6 +1,5 @@
-// const csvUrl = 'data/clean_data.csv';
-const csvUrl = 'https://raw.githubusercontent.com/kv-hearst/cpi-grocery-calculator/main/data/clean_data.csv';
-
+const csvUrl = 'data/clean_data.csv';
+// const csvUrl = 'https://raw.githubusercontent.com/kv-hearst/cpi-grocery-calculator/main/data/clean_data.csv';
 
 let rows = []; 
 let currentTotal = 0;
