@@ -1,5 +1,6 @@
 seriesID,year,period,periodName,latest,value,footnotes,item_name
-APU0000701312,2026,M02,February,true,1.074,[{}],Rice
+APU0000701312,2026,M03,March,true,1.060,[{}],Rice
+APU0000701312,2026,M02,February,,1.074,[{}],Rice
 APU0000701312,2026,M01,January,,1.059,[{}],Rice
 APU0000701312,2025,M12,December,,1.076,[{}],Rice
 APU0000701312,2025,M11,November,,1.065,[{}],Rice
@@ -25,7 +26,8 @@ APU0000701312,2024,M04,April,,1.025,[{}],Rice
 APU0000701312,2024,M03,March,,1.014,[{}],Rice
 APU0000701312,2024,M02,February,,1.001,[{}],Rice
 APU0000701312,2024,M01,January,,1.000,[{}],Rice
-APU0000701322,2026,M02,February,true,1.323,[{}],Pasta
+APU0000701322,2026,M03,March,true,1.308,[{}],Pasta
+APU0000701322,2026,M02,February,,1.323,[{}],Pasta
 APU0000701322,2026,M01,January,,1.325,[{}],Pasta
 APU0000701322,2025,M12,December,,1.311,[{}],Pasta
 APU0000701322,2025,M11,November,,1.300,[{}],Pasta
@@ -51,7 +53,8 @@ APU0000701322,2024,M04,April,,1.422,[{}],Pasta
 APU0000701322,2024,M03,March,,1.420,[{}],Pasta
 APU0000701322,2024,M02,February,,1.432,[{}],Pasta
 APU0000701322,2024,M01,January,,1.425,[{}],Pasta
-APU0000702111,2026,M02,February,true,1.850,[{}],White bread
+APU0000702111,2026,M03,March,true,1.808,[{}],White bread
+APU0000702111,2026,M02,February,,1.850,[{}],White bread
 APU0000702111,2026,M01,January,,1.843,[{}],White bread
 APU0000702111,2025,M12,December,,1.833,[{}],White bread
 APU0000702111,2025,M11,November,,1.790,[{}],White bread
@@ -77,7 +80,8 @@ APU0000702111,2024,M04,April,,1.998,[{}],White bread
 APU0000702111,2024,M03,March,,1.997,[{}],White bread
 APU0000702111,2024,M02,February,,2.006,[{}],White bread
 APU0000702111,2024,M01,January,,2.033,[{}],White bread
-APU0000702421,2026,M02,February,true,5.255,[{}],Cookies
+APU0000702421,2026,M03,March,true,5.309,[{}],Cookies
+APU0000702421,2026,M02,February,,5.255,[{}],Cookies
 APU0000702421,2026,M01,January,,5.352,[{}],Cookies
 APU0000702421,2025,M12,December,,5.128,[{}],Cookies
 APU0000702421,2025,M11,November,,5.331,[{}],Cookies
@@ -103,7 +107,8 @@ APU0000702421,2024,M04,April,,5.121,[{}],Cookies
 APU0000702421,2024,M03,March,,5.145,[{}],Cookies
 APU0000702421,2024,M02,February,,5.248,[{}],Cookies
 APU0000702421,2024,M01,January,,5.019,[{}],Cookies
-APU0000703113,2026,M02,February,true,8.338,[{}],Ground beef
+APU0000703113,2026,M03,March,true,8.200,[{}],Ground beef
+APU0000703113,2026,M02,February,,8.338,[{}],Ground beef
 APU0000703113,2026,M01,January,,8.191,[{}],Ground beef
 APU0000703113,2025,M12,December,,8.254,[{}],Ground beef
 APU0000703113,2025,M11,November,,8.232,[{}],Ground beef
@@ -129,7 +134,8 @@ APU0000703113,2024,M04,April,,6.809,[{}],Ground beef
 APU0000703113,2024,M03,March,,6.734,[{}],Ground beef
 APU0000703113,2024,M02,February,,6.651,[{}],Ground beef
 APU0000703113,2024,M01,January,,6.778,[{}],Ground beef
-APU0000703511,2026,M02,February,true,10.095,[{}],Steak
+APU0000703511,2026,M03,March,true,9.610,[{}],Steak
+APU0000703511,2026,M02,February,,10.095,[{}],Steak
 APU0000703511,2026,M01,January,,9.836,[{}],Steak
 APU0000703511,2025,M12,December,,9.875,[{}],Steak
 APU0000703511,2025,M11,November,,9.665,[{}],Steak
@@ -155,7 +161,8 @@ APU0000703511,2024,M04,April,,8.110,[{}],Steak
 APU0000703511,2024,M03,March,,8.031,[{}],Steak
 APU0000703511,2024,M02,February,,7.883,[{}],Steak
 APU0000703511,2024,M01,January,,8.106,[{}],Steak
-APU0000704111,2026,M02,February,true,6.904,[{}],Bacon
+APU0000704111,2026,M03,March,true,6.801,[{}],Bacon
+APU0000704111,2026,M02,February,,6.904,[{}],Bacon
 APU0000704111,2026,M01,January,,6.978,[{}],Bacon
 APU0000704111,2025,M12,December,,6.760,[{}],Bacon
 APU0000704111,2025,M11,November,,6.928,[{}],Bacon
@@ -181,7 +188,8 @@ APU0000704111,2024,M04,April,,6.637,[{}],Bacon
 APU0000704111,2024,M03,March,,6.609,[{}],Bacon
 APU0000704111,2024,M02,February,,6.560,[{}],Bacon
 APU0000704111,2024,M01,January,,6.614,[{}],Bacon
-APU0000704312,2026,M02,February,true,5.616,[{}],Ham
+APU0000704312,2026,M03,March,true,5.479,[{}],Ham
+APU0000704312,2026,M02,February,,5.616,[{}],Ham
 APU0000704312,2026,M01,January,,5.500,[{}],Ham
 APU0000704312,2025,M12,December,,5.356,[{}],Ham
 APU0000704312,2025,M11,November,,5.462,[{}],Ham
@@ -207,7 +215,8 @@ APU0000704312,2024,M04,April,,5.594,[{}],Ham
 APU0000704312,2024,M03,March,,5.572,[{}],Ham
 APU0000704312,2024,M02,February,,5.666,[{}],Ham
 APU0000704312,2024,M01,January,,5.532,[{}],Ham
-APU0000708111,2026,M02,February,true,2.500,[{}],Eggs
+APU0000708111,2026,M03,March,true,2.348,[{}],Eggs
+APU0000708111,2026,M02,February,,2.500,[{}],Eggs
 APU0000708111,2026,M01,January,,2.577,[{}],Eggs
 APU0000708111,2025,M12,December,,2.712,[{}],Eggs
 APU0000708111,2025,M11,November,,2.860,[{}],Eggs
@@ -233,7 +242,8 @@ APU0000708111,2024,M04,April,,2.864,[{}],Eggs
 APU0000708111,2024,M03,March,,2.992,[{}],Eggs
 APU0000708111,2024,M02,February,,2.996,[{}],Eggs
 APU0000708111,2024,M01,January,,2.522,[{}],Eggs
-APU0000709112,2026,M02,February,true,4.026,[{}],Milk
+APU0000709112,2026,M03,March,true,4.067,[{}],Milk
+APU0000709112,2026,M02,February,,4.026,[{}],Milk
 APU0000709112,2026,M01,January,,4.100,[{}],Milk
 APU0000709112,2025,M12,December,,4.047,[{}],Milk
 APU0000709112,2025,M11,November,,3.997,[{}],Milk
@@ -259,7 +269,8 @@ APU0000709112,2024,M04,April,,3.868,[{}],Milk
 APU0000709112,2024,M03,March,,3.893,[{}],Milk
 APU0000709112,2024,M02,February,,3.940,[{}],Milk
 APU0000709112,2024,M01,January,,3.958,[{}],Milk
-APU0000710212,2026,M02,February,true,5.987,[{}],Cheddar cheese
+APU0000710212,2026,M03,March,true,5.970,[{}],Cheddar cheese
+APU0000710212,2026,M02,February,,5.987,[{}],Cheddar cheese
 APU0000710212,2026,M01,January,,5.982,[{}],Cheddar cheese
 APU0000710212,2025,M12,December,,5.789,[{}],Cheddar cheese
 APU0000710212,2025,M11,November,,5.636,[{}],Cheddar cheese
@@ -285,7 +296,8 @@ APU0000710212,2024,M04,April,,5.510,[{}],Cheddar cheese
 APU0000710212,2024,M03,March,,5.689,[{}],Cheddar cheese
 APU0000710212,2024,M02,February,,5.726,[{}],Cheddar cheese
 APU0000710212,2024,M01,January,,5.724,[{}],Cheddar cheese
-APU0000710411,2026,M02,February,true,6.264,[{}],Ice cream
+APU0000710411,2026,M03,March,true,6.191,[{}],Ice cream
+APU0000710411,2026,M02,February,,6.264,[{}],Ice cream
 APU0000710411,2026,M01,January,,6.236,[{}],Ice cream
 APU0000710411,2025,M12,December,,6.403,[{}],Ice cream
 APU0000710411,2025,M11,November,,6.138,[{}],Ice cream
@@ -311,7 +323,8 @@ APU0000710411,2024,M04,April,,6.196,[{}],Ice cream
 APU0000710411,2024,M03,March,,5.733,[{}],Ice cream
 APU0000710411,2024,M02,February,,5.885,[{}],Ice cream
 APU0000710411,2024,M01,January,,5.903,[{}],Ice cream
-APU0000711211,2026,M02,February,true,0.653,[{}],Bananas
+APU0000711211,2026,M03,March,true,0.657,[{}],Bananas
+APU0000711211,2026,M02,February,,0.653,[{}],Bananas
 APU0000711211,2026,M01,January,,0.653,[{}],Bananas
 APU0000711211,2025,M12,December,,0.656,[{}],Bananas
 APU0000711211,2025,M11,November,,0.664,[{}],Bananas
@@ -337,7 +350,8 @@ APU0000711211,2024,M04,April,,0.626,[{}],Bananas
 APU0000711211,2024,M03,March,,0.629,[{}],Bananas
 APU0000711211,2024,M02,February,,0.625,[{}],Bananas
 APU0000711211,2024,M01,January,,0.617,[{}],Bananas
-APU0000711415,2026,M02,February,true,2.929,[{}],Strawberries
+APU0000711415,2026,M03,March,true,2.582,[{}],Strawberries
+APU0000711415,2026,M02,February,,2.929,[{}],Strawberries
 APU0000711415,2026,M01,January,,3.075,[{}],Strawberries
 APU0000711415,2025,M12,December,,3.606,[{}],Strawberries
 APU0000711415,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Strawberries
@@ -362,7 +376,8 @@ APU0000711415,2024,M04,April,,2.520,[{}],Strawberries
 APU0000711415,2024,M03,March,,2.648,[{}],Strawberries
 APU0000711415,2024,M02,February,,3.049,[{}],Strawberries
 APU0000711415,2024,M01,January,,3.658,[{}],Strawberries
-APU0000712112,2026,M02,February,true,0.866,[{}],Potatoes
+APU0000712112,2026,M03,March,true,0.847,[{}],Potatoes
+APU0000712112,2026,M02,February,,0.866,[{}],Potatoes
 APU0000712112,2026,M01,January,,0.871,[{}],Potatoes
 APU0000712112,2025,M12,December,,0.847,[{}],Potatoes
 APU0000712112,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Potatoes
@@ -387,7 +402,8 @@ APU0000712112,2024,M04,April,,0.971,[{}],Potatoes
 APU0000712112,2024,M03,March,,0.972,[{}],Potatoes
 APU0000712112,2024,M02,February,,0.971,[{}],Potatoes
 APU0000712112,2024,M01,January,,0.978,[{}],Potatoes
-APU0000712211,2026,M01,January,true,1.699,[{}],Lettuce
+APU0000712211,2026,M03,March,true,1.719,[{}],Lettuce
+APU0000712211,2026,M01,January,,1.699,[{}],Lettuce
 APU0000712211,2025,M11,November,,1.987,[{}],Lettuce
 APU0000712211,2025,M10,October,,-,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",Lettuce
 APU0000712211,2025,M09,September,,1.731,[{}],Lettuce
@@ -411,7 +427,8 @@ APU0000712211,2024,M04,April,,1.754,[{}],Lettuce
 APU0000712211,2024,M03,March,,1.680,[{}],Lettuce
 APU0000712211,2024,M02,February,,1.443,[{}],Lettuce
 APU0000712211,2024,M01,January,,1.439,[{}],Lettuce
-APU0000712311,2026,M02,February,true,1.902,[{}],Tomatoes
+APU0000712311,2026,M03,March,true,2.255,[{}],Tomatoes
+APU0000712311,2026,M02,February,,1.902,[{}],Tomatoes
 APU0000712311,2026,M01,January,,1.791,[{}],Tomatoes
 APU0000712311,2025,M12,December,,1.840,[{}],Tomatoes
 APU0000712311,2025,M11,November,,1.828,[{}],Tomatoes
@@ -437,7 +454,8 @@ APU0000712311,2024,M04,April,,1.962,[{}],Tomatoes
 APU0000712311,2024,M03,March,,2.044,[{}],Tomatoes
 APU0000712311,2024,M02,February,,2.132,[{}],Tomatoes
 APU0000712311,2024,M01,January,,2.146,[{}],Tomatoes
-APU0000713111,2026,M02,February,true,4.863,[{}],Orange juice
+APU0000713111,2026,M03,March,true,4.886,[{}],Orange juice
+APU0000713111,2026,M02,February,,4.863,[{}],Orange juice
 APU0000713111,2026,M01,January,,4.871,[{}],Orange juice
 APU0000713111,2025,M12,December,,4.821,[{}],Orange juice
 APU0000713111,2025,M11,November,,4.806,[{}],Orange juice
@@ -463,7 +481,8 @@ APU0000713111,2024,M04,April,,4.278,[{}],Orange juice
 APU0000713111,2024,M03,March,,4.259,[{}],Orange juice
 APU0000713111,2024,M02,February,,4.214,[{}],Orange juice
 APU0000713111,2024,M01,January,,4.111,[{}],Orange juice
-APU0000714221,2026,M02,February,true,1.312,[{}],Corn
+APU0000714221,2026,M03,March,true,1.311,[{}],Corn
+APU0000714221,2026,M02,February,,1.312,[{}],Corn
 APU0000714221,2026,M01,January,,1.298,[{}],Corn
 APU0000714221,2025,M12,December,,1.164,[{}],Corn
 APU0000714221,2025,M11,November,,1.174,[{}],Corn
@@ -489,7 +508,8 @@ APU0000714221,2024,M04,April,,1.402,[{}],Corn
 APU0000714221,2024,M03,March,,1.396,[{}],Corn
 APU0000714221,2024,M02,February,,1.392,[{}],Corn
 APU0000714221,2024,M01,January,,1.379,[{}],Corn
-APU0000714233,2026,M02,February,true,1.704,[{}],Beans
+APU0000714233,2026,M03,March,true,1.696,[{}],Beans
+APU0000714233,2026,M02,February,,1.704,[{}],Beans
 APU0000714233,2026,M01,January,,1.702,[{}],Beans
 APU0000714233,2025,M12,December,,1.689,[{}],Beans
 APU0000714233,2025,M11,November,,1.686,[{}],Beans
@@ -515,7 +535,8 @@ APU0000714233,2024,M04,April,,1.647,[{}],Beans
 APU0000714233,2024,M03,March,,1.648,[{}],Beans
 APU0000714233,2024,M02,February,,1.625,[{}],Beans
 APU0000714233,2024,M01,January,,1.589,[{}],Beans
-APU0000715211,2026,M02,February,true,1.016,[{}],Sugar
+APU0000715211,2026,M03,March,true,0.996,[{}],Sugar
+APU0000715211,2026,M02,February,,1.016,[{}],Sugar
 APU0000715211,2026,M01,January,,1.022,[{}],Sugar
 APU0000715211,2025,M12,December,,0.985,[{}],Sugar
 APU0000715211,2025,M11,November,,0.991,[{}],Sugar
@@ -541,7 +562,8 @@ APU0000715211,2024,M04,April,,1.006,[{}],Sugar
 APU0000715211,2024,M03,March,,0.984,[{}],Sugar
 APU0000715211,2024,M02,February,,0.984,[{}],Sugar
 APU0000715211,2024,M01,January,,0.975,[{}],Sugar
-APU0000717311,2026,M02,February,true,9.459,[{}],Coffee
+APU0000717311,2026,M03,March,true,9.608,[{}],Coffee
+APU0000717311,2026,M02,February,,9.459,[{}],Coffee
 APU0000717311,2026,M01,January,,9.366,[{}],Coffee
 APU0000717311,2025,M12,December,,9.053,[{}],Coffee
 APU0000717311,2025,M11,November,,9.258,[{}],Coffee
@@ -567,7 +589,8 @@ APU0000717311,2024,M04,April,,6.063,[{}],Coffee
 APU0000717311,2024,M03,March,,5.964,[{}],Coffee
 APU0000717311,2024,M02,February,,6.094,[{}],Coffee
 APU0000717311,2024,M01,January,,6.124,[{}],Coffee
-APU0000718311,2026,M02,February,true,6.827,[{}],Potato chips
+APU0000718311,2026,M03,March,true,6.712,[{}],Potato chips
+APU0000718311,2026,M02,February,,6.827,[{}],Potato chips
 APU0000718311,2026,M01,January,,6.629,[{}],Potato chips
 APU0000718311,2025,M12,December,,6.788,[{}],Potato chips
 APU0000718311,2025,M11,November,,6.821,[{}],Potato chips
@@ -593,7 +616,8 @@ APU0000718311,2024,M04,April,,6.504,[{}],Potato chips
 APU0000718311,2024,M03,March,,6.572,[{}],Potato chips
 APU0000718311,2024,M02,February,,6.410,[{}],Potato chips
 APU0000718311,2024,M01,January,,6.389,[{}],Potato chips
-APU0000720311,2026,M02,February,true,14.247,[{}],Wine
+APU0000720311,2026,M03,March,true,14.236,[{}],Wine
+APU0000720311,2026,M02,February,,14.247,[{}],Wine
 APU0000720311,2026,M01,January,,14.163,[{}],Wine
 APU0000720311,2025,M12,December,,14.174,[{}],Wine
 APU0000720311,2025,M11,November,,14.106,[{}],Wine
@@ -619,7 +643,8 @@ APU0000720311,2024,M04,April,,13.662,[{}],Wine
 APU0000720311,2024,M03,March,,13.308,[{}],Wine
 APU0000720311,2024,M02,February,,13.391,[{}],Wine
 APU0000720311,2024,M01,January,,13.345,[{}],Wine
-APU0000FF1101,2026,M02,February,true,4.142,[{}],Chicken breast
+APU0000FF1101,2026,M03,March,true,4.172,[{}],Chicken breast
+APU0000FF1101,2026,M02,February,,4.142,[{}],Chicken breast
 APU0000FF1101,2026,M01,January,,4.165,[{}],Chicken breast
 APU0000FF1101,2025,M12,December,,4.153,[{}],Chicken breast
 APU0000FF1101,2025,M11,November,,4.150,[{}],Chicken breast
